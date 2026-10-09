@@ -1,4 +1,4 @@
-"""Regenerate assets/search-data.js after editing any page.
+"""Regenerate assets/search-data.js, sitemap.xml and robots.txt after editing any page.
 Run from the repository root:  python3 tools/build_search.py
 """
 import glob, html, json, os, re
@@ -27,4 +27,10 @@ for path in sorted(glob.glob(root + '/**/*.html', recursive=True)):
 entries.sort(key=lambda e: (e['slug'] != 'home', e['slug']))
 with open(root + '/assets/search-data.js', 'w', encoding='utf-8') as f:
     f.write('window.SEARCH_DATA=' + json.dumps(entries, ensure_ascii=False) + ';\n')
+base = 'https://dankimuq.github.io'
+urls = ''.join('  <url><loc>%s%s</loc></url>\n' % (base, e['url']) for e in entries)
+with open(root + '/sitemap.xml', 'w', encoding='utf-8') as f:
+    f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + urls + '</urlset>\n')
+with open(root + '/robots.txt', 'w') as f:
+    f.write('User-agent: *\nAllow: /\nSitemap: ' + base + '/sitemap.xml\n')
 print(len(entries), 'pages indexed')
