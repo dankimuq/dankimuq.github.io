@@ -1,0 +1,5 @@
+Research · Moving target defense
+Intro to MTD
+Research areas
+Moving Target Defense (MTD) is a proactive security approach that continuously shifts a system’s attack surface to increase uncertainty and complexity for attackers. By dynamically changing system configurations, network paths, or execution environments, MTD significantly reduces the effectiveness of reconnaissance and exploitation efforts. This paradigm enhances resilience by making systems less predictable and harder to compromise.
+Explore

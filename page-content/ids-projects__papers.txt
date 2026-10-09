@@ -1,0 +1,58 @@
+Research · Intrusion detection
+Publications
+Research areas
+Publications (Selected Papers and Thesis Reports)
+AI based IDS (since 2002)
+[DSN-S 2024] Subrat Kumar Swain, Vireshwar Kumar, Guangdong Bai, Dan Dongseong Kim: PANDA: Practical Adversarial Attack Against Network Intrusion Detection. DSN-S 2024: 28-32
+[DSN-S 2024] Subrat Kumar Swain, Vireshwar Kumar, Guangdong Bai, Dan Dongseong Kim: PANDA: Practical Adversarial Attack Against Network Intrusion Detection. DSN-S 2024: 28-32
+[IEEEBD 2022]
+[IEEEBD 2022]
+Hyejin Kim, Dan Dongseong Kim, Jin-Hee Cho, Terrence J. Moore, Frederica F. Nelson, Hyuk Lim: Continual Learning with Network Intrusion Dataset. IEEE Big Data 2022: 6702-6704
+[IEEEBG 2022] Hyejin Kim, Dan Dongseong Kim, Jin-Hee Cho, Terrence J. Moore, Frederica F. Nelson, Hyuk Lim: Continual Learning with Network Intrusion Dataset. IEEE Big Data 2022: 6702-6704
+[IEEEBG 2022] Hyejin Kim, Dan Dongseong Kim, Jin-Hee Cho, Terrence J. Moore, Frederica F. Nelson, Hyuk Lim: Continual Learning with Network Intrusion Dataset. IEEE Big Data 2022: 6702-6704
+[LM attacks 2022]
+[LM attacks 2022]
+Ke He, Dan Dongseong Kim, Jing Sun, Jeong Do Yoo, Young Hun Lee, Huy Kang Kim: Liuer Mihou: A Practical Framework for Generating and Evaluating Grey-box Adversarial Attacks against NIDS. CoRR abs/2204.06113 (2022)
+[IEEE Globecom 2022]
+[IEEE Globecom 2022]
+Xinyi Wang, Simon Yusuf Enoch, Dan Dongseong Kim: Semantic Preserving Adversarial Attack Generation with Autoencoder and Genetic Algorithm. GLOBECOM 2022: 80-85
+[WISA 2021]
+[WISA 2021]
+Raymond Mogg, Simon Yusuf Enoch, Dong Seong Kim: A Framework for Generating Evasion Attacks for Machine Learning Based Network Intrusion Detection Systems. WISA 2021: 51-63
+[IEEEA 2021b] Seunghyun Yoon, Jin-Hee Cho, Dong Seong Kim, Terrence J. Moore, Frederica Free-Nelson, Hyuk Lim: DESOLATER: Deep Reinforcement Learning-Based Resource Allocation and Moving Target Defense Deployment Framework. IEEE Access 9: 70700-70714 (2021)
+[IEEEA 2021b] Seunghyun Yoon, Jin-Hee Cho, Dong Seong Kim, Terrence J. Moore, Frederica Free-Nelson, Hyuk Lim: DESOLATER: Deep Reinforcement Learning-Based Resource Allocation and Moving Target Defense Deployment Framework. IEEE Access 9: 70700-70714 (2021)
+[IEEEA 2021a] Hyunjun Kim, Sunwoo Ahn, Whoi Ree Ha, Hyunjae Kang, Dong Seong Kim, Huy Kang Kim, Yunheung Paek: Panop: Mimicry-Resistant ANN-Based Distributed NIDS for IoT Networks. IEEE Access 9: 111853-111864 (2021)
+[IEEEA 2021a] Hyunjun Kim, Sunwoo Ahn, Whoi Ree Ha, Hyunjae Kang, Dong Seong Kim, Huy Kang Kim, Yunheung Paek: Panop: Mimicry-Resistant ANN-Based Distributed NIDS for IoT Networks. IEEE Access 9: 111853-111864 (2021)
+[IEEEA 2020] Jaehyoung Park, Dong Seong Kim, Hyuk Lim: Privacy-Preserving Reinforcement Learning Using Homomorphic Encryption in Cloud Computing Infrastructures. IEEE Access 8: 203564-203579 (2020)
+[IEEEA 2020] Jaehyoung Park, Dong Seong Kim, Hyuk Lim: Privacy-Preserving Reinforcement Learning Using Homomorphic Encryption in Cloud Computing Infrastructures. IEEE Access 8: 203564-203579 (2020)
+[ICSSA 2018] Taehoon Eom, Heesu Kim, SeongMo An, Jong Sou Park, Dong Seong Kim: Android Malware Detection using Feature Selections and Random Forest. International Conference on Software Security and Assurance (ICSSA 2018), July 26-27, Seoul, South Korea
+[ICSSA 2018] Taehoon Eom, Heesu Kim, SeongMo An, Jong Sou Park, Dong Seong Kim: Android Malware Detection using Feature Selections and Random Forest. International Conference on Software Security and Assurance (ICSSA 2018), July 26-27, Seoul, South Korea
+[ICA3PPW 2015] Hong, Jin B., et al.: Scalable network intrusion detection and countermeasure selection in virtual network systems. International Conference on Algorithms and Architectures for Parallel Processing, Springer, Cham, 2015
+[ICA3PPW 2015] Hong, Jin B., et al.: Scalable network intrusion detection and countermeasure selection in virtual network systems. International Conference on Algorithms and Architectures for Parallel Processing, Springer, Cham, 2015
+[JISIS 2012] Sang Min Lee, Dong Seong Kim, Jong Sou Park: A Survey and Taxonomy of Lightweight Intrusion Detection Systems. J. Internet Serv. Inf. Secur. 2(1/2): 119-131 (2012)
+[JISIS 2012] Sang Min Lee, Dong Seong Kim, Jong Sou Park: A Survey and Taxonomy of Lightweight Intrusion Detection Systems. J. Internet Serv. Inf. Secur. 2(1/2): 119-131 (2012)
+[IMIS 2011] Je Hak Lee, Dong Seong Kim, Sang Min Lee, Jong Sou Park: DDoS Attacks Detection Using GA Based Optimized Traffic Matrix. IMIS 2011: 216-220
+[IMIS 2011] Je Hak Lee, Dong Seong Kim, Sang Min Lee, Jong Sou Park: DDoS Attacks Detection Using GA Based Optimized Traffic Matrix. IMIS 2011: 216-220
+[CISIS 2010] Sang Min Lee, Dong Seong Kim, Ji Ho Kim, Jong Sou Park: Spam Detection Using Feature Selection and Parameters Optimization. CISIS 2010: 883-888
+[CISIS 2010] Sang Min Lee, Dong Seong Kim, Ji Ho Kim, Jong Sou Park: Spam Detection Using Feature Selection and Parameters Optimization. CISIS 2010: 883-888
+[PRDC 2009] Sang Min Lee, Dong Seong Kim, YoungHyun Yoon, Jong Sou Park: Quantitative Intrusion Intensity Assessment Using Important Feature Selection and Proximity Metrics. PRDC 2009: 127-134
+[PRDC 2009] Sang Min Lee, Dong Seong Kim, YoungHyun Yoon, Jong Sou Park: Quantitative Intrusion Intensity Assessment Using Important Feature Selection and Proximity Metrics. PRDC 2009: 127-134
+[ISA 2009] Tae Hwan Kim, Dong Seong Kim, Sang Min Lee, Jong Sou Park: Detecting DDoS Attacks Using Dispersible Traffic Matrix and Weighted Moving Average. ISA 2009: 290-300
+[ISA 2009] Tae Hwan Kim, Dong Seong Kim, Sang Min Lee, Jong Sou Park: Detecting DDoS Attacks Using Dispersible Traffic Matrix and Weighted Moving Average. ISA 2009: 290-300
+[ARES 2008] Dong Seong Kim, Muhammad Anwarul Azim, Jong Sou Park: Privacy Preserving Support Vector Machines in Wireless Sensor Networks. ARES 2008: 1260-1265
+[ARES 2008] Dong Seong Kim, Muhammad Anwarul Azim, Jong Sou Park: Privacy Preserving Support Vector Machines in Wireless Sensor Networks. ARES 2008: 1260-1265
+[CIS 2007] Lee, Sang Min, Kim, Dong Seong, Park, Jong Sou: A hybrid approach for real-time network intrusion detection systems. International Conference on Computational Intelligence and Security, CIS 2007, Harbin, China, Dec 15-19. IEEE. https://doi.org/10.1109/CIS.2007.28
+[CIS 2007] Lee, Sang Min, Kim, Dong Seong, Park, Jong Sou: A hybrid approach for real-time network intrusion detection systems. International Conference on Computational Intelligence and Security, CIS 2007, Harbin, China, Dec 15-19. IEEE. https://doi.org/10.1109/CIS.2007.28
+[MICAI 2006] Dong Seong Kim, Sang Min Lee, Jong Sou Park: Toward Lightweight Detection and Visualization for Denial of Service Attacks. MICAI 2006: 632-640
+[MICAI 2006] Dong Seong Kim, Sang Min Lee, Jong Sou Park: Toward Lightweight Detection and Visualization for Denial of Service Attacks. MICAI 2006: 632-640
+[CISC 2005] Jong Sou Park, Khaja Mohammad Shazzad, Dong Seong Kim: Toward Modeling Lightweight Intrusion Detection System Through Correlation-Based Hybrid Feature Selection. CISC 2005: 279-289
+[CISC 2005] Jong Sou Park, Khaja Mohammad Shazzad, Dong Seong Kim: Toward Modeling Lightweight Intrusion Detection System Through Correlation-Based Hybrid Feature Selection. CISC 2005: 279-289
+[AINA 2005] Dong Seong Kim, Ha-Nam Nguyen, Jong Sou Park: Genetic Algorithm to Improve SVM Based Network Intrusion Detection System. AINA 2005: 155-158
+[AINA 2005] Dong Seong Kim, Ha-Nam Nguyen, Jong Sou Park: Genetic Algorithm to Improve SVM Based Network Intrusion Detection System. AINA 2005: 155-158
+[W2GIS 2004] Jong Sou Park, Hong Tae Jin, Dong Seong Kim: Intrusion Detection System for Securing Geographical Information System Web Servers. W2GIS 2004: 110-119
+[W2GIS 2004] Jong Sou Park, Hong Tae Jin, Dong Seong Kim: Intrusion Detection System for Securing Geographical Information System Web Servers. W2GIS 2004: 110-119
+[ICOIN 2003] Dong Seong Kim, Jong Sou Park: Network-Based Intrusion Detection with Support Vector Machines. ICOIN 2003: 747-756
+[ICOIN 2003] Dong Seong Kim, Jong Sou Park: Network-Based Intrusion Detection with Support Vector Machines. ICOIN 2003: 747-756
+[WISC02] J. Lee, D. S. Kim, J. S. Park, D. B. Yeom: Detecting Host-based Intrusion with SVM classification. KISC 2002 (in Korean)
+[WISC02] J. Lee, D. S. Kim, J. S. Park, D. B. Yeom: Detecting Host-based Intrusion with SVM classification. KISC 2002 (in Korean)
+On this page

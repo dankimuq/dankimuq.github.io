@@ -1,0 +1,158 @@
+Dependable and Secure systems Lab
+Professional Service
+Journal editorships
+2018–present
+Computers & Security
+Editorial Board Member · Elsevier
+Impact factor: 6.8 · Q1 journalGoogle Scholar ranking: #2 in Computer Security & Cryptography
+2021–present
+IEEE Communications Surveys & Tutorials
+Associate Editor · IEEE COMST
+Impact factor: 50.6 · Q1 journalGoogle Scholar ranking: #2 in Computer Networks & Wireless Communicationh5-index: 155
+2022–present
+Computer Networks
+Editorial Board Member · Elsevier
+Impact factor: 4.7
+International academic service
+Technical Program Committees
+Conference, workshop and track committee service documented in public organizer rosters and proceedings. Each event links to its source. Future-year appointments are shown separately.
+Upcoming · 2027
+EDCC — European Dependable Computing Conference 2027Technical Program Committee member — upcoming · Conference
+IEEE/IFIP DSN — Dependable Systems and Networks 2027Program Committee member — upcoming · Conference
+Conference & workshop committees
+ACM/IFIP Middleware 2026Program Committee member · Conference
+AICompS 2026Program Committee member · Conference
+EAI SecureComm — Security and Privacy in Communication Networks 2026Technical Program Committee member · Conference
+EDCC — European Dependable Computing Conference 2026Program Committee member · Conference
+IEEE/ACM CCGrid — Cluster, Cloud and Internet Computing 2026Program Committee member — Track 6: Systems for AI/ML and Distributed Intelligence · Conference track
+IEEE/IFIP DSN — Dependable Systems and Networks 2026Research Track Program Committee member · Conference
+SSS — Stabilization, Safety, and Security of Distributed Systems 2026Program Committee member — Track E: Real-world Distributed Systems and Operational Challenges · Conference track
+AI Security and Privacy 2025Program Committee member · Workshop
+AICompS 2025Program Committee member · Conference
+BFTAI — Byzantine Fault Tolerance for Artificial Intelligence 2025Program Committee member · Workshop
+IEEE ISSRE — Software Reliability Engineering 2025Research Track Program Committee member · Conference
+IEEE SRDS — Reliable Distributed Systems 2025Program Committee member · Conference
+IEEE/ACM CCGrid — Cluster, Cloud and Internet Computing 2025Program Committee member — Track 3: ML for Systems and Systems for ML · Conference track
+IEEE/IFIP DSN — Dependable Systems and Networks 2025Research Track Program Committee member · Conference
+IFIP SEC — ICT Systems Security and Privacy Protection 2025Program Committee member · Conference
+ACM SAC S2RAI — Safe, Secure and Robust AI 2024Technical Program Committee member · Conference track
+AICompS 2024Program Committee member · Conference
+IEEE ISSRE — Software Reliability Engineering 2024Research Track Program Committee member · Conference
+IEEE/IFIP DSN — Dependable Systems and Networks 2024Program Committee member · Conference
+S-HPC — Security in High Performance Computing 2024Technical Program Committee member · Workshop
+ACISP — Information Security and Privacy 2023Program Committee member · Conference
+IEEE/IFIP DSN — Dependable Systems and Networks 2023Research Track Program Committee member · Conference
+WISA — Information Security Applications 2023Program Committee member · Conference
+IEEE QRS — Software Quality, Reliability and Security 2022Program Committee member · Conference
+IEEE/IFIP DSN — Dependable Systems and Networks 2022Research Track Program Committee member · Conference
+WISA — Information Security Applications 2022Program Committee member · Conference
+ACISP — Information Security and Privacy 2021Program Committee member · Conference
+IEEE SRDS — Reliable Distributed Systems 2021Program Committee member · Conference
+IEEE/IFIP DSN — Dependable Systems and Networks 2021Program Committee member · Conference
+USEC — Usable Security and Privacy 2021Program Committee member · Workshop
+WISA — Information Security Applications 2021Program Committee member · Conference
+ACISP — Information Security and Privacy 2020Program Committee member · Conference
+IEEE ISSRE — Software Reliability Engineering 2020Research Track Program Committee member · Conference
+WoSoCer — Software Certification 2020Program Committee member · Workshop
+IEEE ICIOT — Internet of Things 2019Program Committee member · Conference
+IEEE SRDS — Reliable Distributed Systems 2019Program Committee member · Conference
+IEEE/IFIP DSN — Dependable Systems and Networks 2019Program Committee member · Conference
+DSML — Dependable and Secure Machine Learning 2018Program Committee member · Workshop
+ICCSA — Computational Science and Its Applications 2018Program Committee member · Conference
+ICISSP — Information Systems Security and Privacy 2018Program Committee member · Conference
+IEEE ISSRE — Software Reliability Engineering 2018Research Track Program Committee member · Conference
+IEEE PRDC — Pacific Rim International Symposium on Dependable Computing 2018Program Committee member · Conference
+ACM MTD — Moving Target Defense 2017Program Committee member · Workshop
+ICCSA — Computational Science and Its Applications 2017Program Committee member · Conference
+ICISSP — Information Systems Security and Privacy 2015Program Committee member · Conference
+SaSeIoT — Safety and Security in Internet of Things 2015Technical Program Committee member · Conference
+AISC — Australasian Information Security Conference 2014Program Committee member · Conference
+CHINACOM — Communications and Networking in China 2014Technical Program Committee member — Network and Information Security · Conference track
+ICCSA — Computational Science and Its Applications 2014Program Committee member · Conference
+SoICT — Information and Communication Technology 2014Program Committee member · Conference
+DCDV — Dependable Computing in Dynamic and Virtualized Environments 2013Program Committee member · Workshop
+DEPEND — Dependability 2013Technical Program Committee member · Conference
+ICCA — Computer Applications 2013Technical Program Committee member · Conference
+ICNS — Networking and Services 2013Technical Program Committee member · Conference
+IEEE LCN — Local Computer Networks 2013Technical Program Committee member · Conference
+CCSIT — Computer Science and Information Technology 2012Program Committee member · Conference
+CloudSec — Security in Cloud Computing 2012Technical Program Committee member · Workshop
+IEEE LCN — Local Computer Networks 2012Technical Program Committee member · Conference
+CCSEIT — Computer Science, Engineering and Information Technology 2011Program Committee member · Conference
+CNSA — Communication Networks and Security 2011Program Committee member · Conference
+COSIT — Computer Science and Information Technology 2011Program Committee member · Conference
+IEEE LCN — Local Computer Networks 2011Technical Program Committee member · Conference
+ICCA — Computer Applications 2010Technical Program Committee member · Conference
+IEEE LCN — Local Computer Networks 2010Technical Program Committee member · Conference
+NetCoM — Networks and Communications 2010Program Committee member · Conference
+IEEE LCN — Local Computer Networks 2009Technical Program Committee member · Conference
+MIST — Managing Insider Security Threats 2009Program Committee member · Workshop
+SECRYPT — Security and Cryptography 2009Program Committee member · Conference
+Conference leadership & organization
+Additional public records of chair and organizing roles, kept distinct from committee membership.
+AID 2026Organization Chair · Workshop
+AISC 2026Program Co-Chair · Conference
+AID 2025Organization Chair · Workshop
+IEEE ISSRE 2024Publicity Chair · Conference
+IEEE/IFIP DSN 2024General Co-Chair · Conference
+DigiCon 2023Technical Program Committee Chair · Conference
+IEEE SRDS 2023Program Committee Co-Chair · Conference
+IEEE/IFIP DSN 2023Workshop Chair · Conference
+IEEE/IFIP DSN 2022Publicity Chair · Conference
+IEEE ICIOT 2019Program Chair · Conference
+AISC 2017Program Co-Chair · Conference
+GraMSec 2016Program Committee Co-Chair · Workshop
+IAS — Information Assurance and Security 2015Program Committee Co-Chair · Conference
+IEEE/IFIP DSN 2013Student Co-Chair · Conference
+Additional service record
+Organizing Committees
+General chair
+2025: IWQoS
+2025: IWQoS
+2024: DSN
+2024: DSN
+2019: ACISP
+2019: ACISP
+2017: PRDC
+2017: PRDC
+Program co-chair
+2026: AISC (ACSW)
+2026: AISC (ACSW)
+2023: SRDS, ML4CS
+2023: SRDS, ML4CS
+2019: ICIoT, TrustCom (security track)
+2019: ICIoT, TrustCom (security track)
+2016: GraMSec
+2016: GraMSec
+2015: DASC
+2015: DASC
+Doctoral forum chair
+2021: DSN
+2021: DSN
+Student paper co-chair
+2013: DSN
+2013: DSN
+Program Comittees:
+2026: DSN, SEC
+2026: DSN, SEC
+2025: AICompS, AID, CNS, CCGrid, DSN, EDCC, ISSRE, PRDC, SEC, SRDS
+2025: AICompS, AID, CNS, CCGrid, DSN, EDCC, ISSRE, PRDC, SEC, SRDS
+2024: ACISP, ISSRE
+2024: ACISP, ISSRE
+2023: DSN, QRS
+2023: DSN, QRS
+2022: DSN, QRS
+2022: DSN, QRS
+2021: DSN, QRS
+2021: DSN, QRS
+2020: DSN, ISSRE
+2020: DSN, ISSRE
+2019: DSN,
+2019: DSN,
+2018: ISSRE
+2018: ISSRE
+2017: ISSRE
+2017: ISSRE
+to be added.
+to be added.
+On this page

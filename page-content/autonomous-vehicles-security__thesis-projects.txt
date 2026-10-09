@@ -1,0 +1,20 @@
+Research · Autonomous vehicles security
+Thesis projects
+Research areas
+PhD thesis projects
+I. Pali: Adversarial Machine Learning for Autonomous Vehicles, 2022 - .
+I. Pali: Adversarial Machine Learning for Autonomous Vehicles, 2022 - .
+U. Lam: Federated Learning based IDS for Autonomous Vehicles, July 2024 - present.
+U. Lam: Federated Learning based IDS for Autonomous Vehicles, July 2024 - present.
+Master/Honour thesis projects (selected)
+H. Jin, Developing Autonomous Vehicle Security Testbeds and Evaluation, S2, 2025 - S1, 2026
+H. Jin, Developing Autonomous Vehicle Security Testbeds and Evaluation, S2, 2025 - S1, 2026
+T. You, Adversarial Attacks and Effective Defences for Autonomous Vehicles, Master (4 units), S1, 2025
+T. You, Adversarial Attacks and Effective Defences for Autonomous Vehicles, Master (4 units), S1, 2025
+D. Wang, Adversarial Attacks and Effective Defences for Autonomous Vehicles, Master of Software Engineering, S2, 2024 - S1, 2025.
+D. Wang, Adversarial Attacks and Effective Defences for Autonomous Vehicles, Master of Software Engineering, S2, 2024 - S1, 2025.
+Z. Wang, A Framework for Spatially Robust Physical Adversarial Examples Against YOLO Detectors, Master of Data Science, S2, 2024 - S1, 2025
+Z. Wang, A Framework for Spatially Robust Physical Adversarial Examples Against YOLO Detectors, Master of Data Science, S2, 2024 - S1, 2025
+Y. Lin, Robustness Evaluation under RGB-Camera Attacks in CARLA: A Systematic Evaluation of Color Modes and Attack Types, Master of Data Science, S2, 2024 - S1, 2025
+Y. Lin, Robustness Evaluation under RGB-Camera Attacks in CARLA: A Systematic Evaluation of Color Modes and Attack Types, Master of Data Science, S2, 2024 - S1, 2025
+On this page

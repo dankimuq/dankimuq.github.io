@@ -1,0 +1,23 @@
+Research · Intrusion detection
+AI-IDS
+Research areas
+AI based IDS & AML for IDS
+We named this project IDS2, which stands for Interpretable, Dependable, and Secure Intrusion Detection System.
+This website provides a comprehensive resource on AI-based Intrusion Detection Systems (IDS) and Adversarial Machine Learning for IDS.
+If you have any questions or require further information about these topics, please feel free to contact Associate Professor Dan Dongseong Kim (at dan.kim@uq.edu.au.) at The University of Queensland, Australia.
+Interpretable, Dependable, and Secure Intrusion Detection System (IDS^2)
+Interpretable (or eXplainable)
+Supports both white-box and black-box models.
+Supports both white-box and black-box models.
+Provides explanations in natural language with clear boundary conditions and visualizations.
+Provides explanations in natural language with clear boundary conditions and visualizations.
+Enables justification, control, improvement, and discovery of security insights.
+Enables justification, control, improvement, and discovery of security insights.
+Dependable
+Ensures safety and reliability against both accidental and intentional disruptions.
+Ensures safety and reliability against both accidental and intentional disruptions.
+Secure
+Designed to resist evasion attacks and maintain robustness against adversarial threats.
+Designed to resist evasion attacks and maintain robustness against adversarial threats.
+Our Research on AI Security & Security for AI
+On this page

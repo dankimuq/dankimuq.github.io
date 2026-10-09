@@ -1,0 +1,722 @@
+[
+  {
+    "kind": "journal",
+    "number": 1,
+    "authors": "Jihyeon Yu, Jinha Kim, Wooseong Jung, Dan Dongseong Kim, Joobeom Yun",
+    "citation": "Feedback-Driven Fuzzing for COTS Robots via Packet Semantic Interpretation. IEEE Transactions on Dependable and Secure Computing (TDSC), 2026.",
+    "source_text": "Jihyeon Yu, Jinha Kim, Wooseong Jung, Dan Dongseong Kim, Joobeom Yun: Feedback-Driven Fuzzing for COTS Robots via Packet Semantic Interpretation. IEEE Transactions on Dependable and Secure Computing (TDSC), 2026.",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 2,
+    "authors": "Ke He, Muhammad Rizwan Asghar, Jeong Do Yoo, Young Hun Lee, Hyunjae Kang, Huy Kang Kim, Dan Dongseong Kim",
+    "citation": "Liuer Mihou: A Practical Grey-box Adversarial Attack against Anomaly-based Network Intrusion Detection Systems. IEEE Transactions on Network and Service Management (TNSM), 2026. [Accepted]",
+    "source_text": "Ke He, Muhammad Rizwan Asghar, Jeong Do Yoo, Young Hun Lee, Hyunjae Kang, Huy Kang Kim, Dan Dongseong Kim: Liuer Mihou: A Practical Grey-box Adversarial Attack against Anomaly-based Network Intrusion Detection Systems. IEEE Transactions on Network and Service Management (TNSM), 2026. [Accepted]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 3,
+    "authors": "Dongwook Kwon, Youngshin Kang, Jiwoon Lee, Yusang Nam, Jihwan Won, Ko Keun Kim, Dan Dongseong Kim, Cheolsoo Park",
+    "citation": "Graph-Enhanced Bidirectional GRU for Anomaly Detection in Power Generation Environments. Data Mining and Knowledge Discovery, 2026. [Accepted]",
+    "source_text": "Dongwook Kwon, Youngshin Kang, Jiwoon Lee, Yusang Nam, Jihwan Won, Ko Keun Kim, Dan Dongseong Kim, Cheolsoo Park: Graph-Enhanced Bidirectional GRU for Anomaly Detection in Power Generation Environments. Data Mining and Knowledge Discovery, 2026. [Accepted]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 4,
+    "authors": "Minjune Kim, Jin-Hee Cho, Hyuk Lim, Tina Moghaddam, Terrence J. Moore, Frederica F. Nelson, Dan Dongseong Kim",
+    "citation": "MTD in Depth: Multi-Phased Moving Target Defense Techniques against Cyber-Attacks Based on Cyber Kill Chain. Future Generation Computer Systems 181, 108419, 2026.",
+    "source_text": "Minjune Kim, Jin-Hee Cho, Hyuk Lim, Tina Moghaddam, Terrence J. Moore, Frederica F. Nelson, Dan Dongseong Kim: MTD in Depth: Multi-Phased Moving Target Defense Techniques against Cyber-Attacks Based on Cyber Kill Chain. Future Generation Computer Systems 181, 108419, 2026.",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 5,
+    "authors": "Chiao-Hsi Joshua Wang, Hyunjae Kang, Ulysses Lam, Jung Taek Seo, Dan Dongseong Kim",
+    "citation": "A Hybrid Ensemble Framework for Unknown Attack Detection in IoT Networks. Future Generation Computer Systems 181, 108447, 2026.",
+    "source_text": "Chiao-Hsi Joshua Wang, Hyunjae Kang, Ulysses Lam, Jung Taek Seo, Dan Dongseong Kim: A Hybrid Ensemble Framework for Unknown Attack Detection in IoT Networks. Future Generation Computer Systems 181, 108447, 2026.",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 6,
+    "authors": "Oliver Delgado, Hyunjae Kang, Ulysses Lam, Jung Taek Seo, Dan Dongseong Kim",
+    "citation": "Continual Learning for Adaptive IoT Network Intrusion Detection via Domain-Incremental Learning Methods. Applied Soft Computing 203, 116022, 2026.",
+    "source_text": "Oliver Delgado, Hyunjae Kang, Ulysses Lam, Jung Taek Seo, Dan Dongseong Kim: Continual Learning for Adaptive IoT Network Intrusion Detection via Domain-Incremental Learning Methods. Applied Soft Computing 203, 116022, 2026.",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 7,
+    "authors": "Zhaochen Wang, Gang Min Kim, Hyunjae Kang, Huy Kang Kim, Dan Dongseong Kim",
+    "citation": "Spatially Robust and Visually Stealthy Physical Adversarial Attacks on Object Detection Systems. Applied Soft Computing 203, 116029, 2026.",
+    "source_text": "Zhaochen Wang, Gang Min Kim, Hyunjae Kang, Huy Kang Kim, Dan Dongseong Kim: Spatially Robust and Visually Stealthy Physical Adversarial Attacks on Object Detection Systems. Applied Soft Computing 203, 116029, 2026.",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 8,
+    "authors": "Nhung H. Nguyen, Hyunjae Kang, Tina Moghaddam, Myung Kil Ahn, Dan Dongseong Kim",
+    "citation": "An Integrated Cyber Offence–Defence Framework for Unmanned Ground Vehicles. Computers & Security 169, 104976, 2026.",
+    "source_text": "Nhung H. Nguyen, Hyunjae Kang, Tina Moghaddam, Myung Kil Ahn, Dan Dongseong Kim: An Integrated Cyber Offence–Defence Framework for Unmanned Ground Vehicles. Computers & Security 169, 104976, 2026.",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 9,
+    "authors": "Liam Revell, Hyunjae Kang, Jung Taek Seo, Dan Dongseong Kim",
+    "citation": "Systematic Evaluation of Few-Shot Learning for Unseen IoT Network Attack Detection. Computer Modeling in Engineering & Sciences 147(1), 45, 2026.",
+    "source_text": "Liam Revell, Hyunjae Kang, Jung Taek Seo, Dan Dongseong Kim: Systematic Evaluation of Few-Shot Learning for Unseen IoT Network Attack Detection. Computer Modeling in Engineering & Sciences 147(1), 45, 2026.",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 10,
+    "authors": "Ulysses Lam, Jin-Hee Cho, Hyuk Lim, Terrence Moore, Frederica Free-Nelson, Hyunjae Kang, Dan Dongseong Kim",
+    "citation": "Robust Federated Learning for Intrusion Detection in Autonomous Vehicles against Poisoning Attacks. Computer Modeling in Engineering & Sciences 147(3), 54, 2026.",
+    "source_text": "Ulysses Lam, Jin-Hee Cho, Hyuk Lim, Terrence Moore, Frederica Free-Nelson, Hyunjae Kang, Dan Dongseong Kim: Robust Federated Learning for Intrusion Detection in Autonomous Vehicles against Poisoning Attacks. Computer Modeling in Engineering & Sciences 147(3), 54, 2026.",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 11,
+    "authors": "Qisheng Zhang, Han Jun Yoon, Terrence J. Moore, Seunghyun Yoon, Dan Dongseong Kim, Hyuk Lim, Frederica Nelson, Jin-Hee Cho",
+    "citation": "Securing End-to-End Reinforcement Learning-Driven Autonomous Driving: A Control Command Utility-Based Intrusion Response System. IEEE Trans. Intell. Veh 11(1), pp. 122–132, 2026. [impact factor: 14.3]",
+    "source_text": "Qisheng Zhang, Han Jun Yoon, Terrence J. Moore, Seunghyun Yoon, Dan Dongseong Kim, Hyuk Lim, Frederica Nelson, Jin-Hee Cho: Securing End-to-End Reinforcement Learning-Driven Autonomous Driving: A Control Command Utility-Based Intrusion Response System. IEEE Trans. Intell. Veh 11(1), pp. 122–132, 2026. [impact factor: 14.3]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 12,
+    "authors": "Woocheol Kim, Jaehyoung Park, Jin-Hee Cho, Dong Seong Kim, Terrence J. Moore, Frederica F. Nelson, Seunghyun Yoon, Hyuk Lim",
+    "citation": "Protecting federated learning from malicious attacks using consensus technique. Appl. Soft Comput 187, 114299, 2026. [impact factor: 8.3]",
+    "source_text": "Woocheol Kim, Jaehyoung Park, Jin-Hee Cho, Dong Seong Kim, Terrence J. Moore, Frederica F. Nelson, Seunghyun Yoon, Hyuk Lim: Protecting federated learning from malicious attacks using consensus technique. Appl. Soft Comput 187, 114299, 2026. [impact factor: 8.3]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 13,
+    "authors": "K. He, D. D. Kim, M. R. Asghar",
+    "citation": "MTD-AD: Moving Target Defense as Adversarial Defense. IEEE Transactions on Dependable and Secure Computing (TDSC). DOI: 10.1109/TDSC.2025.3560246. [Impact factor: 7.3, Q1 journal]",
+    "source_text": "K. He, D. D. Kim, M. R. Asghar: MTD-AD: Moving Target Defense as Adversarial Defense. IEEE Transactions on Dependable and Secure Computing (TDSC). DOI: 10.1109/TDSC.2025.3560246. [Impact factor: 7.3, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 14,
+    "authors": "Kok Onn Chee, Mengmeng Ge, Guangdong Bai, Dan Dongseong Kim",
+    "citation": "Unveiling the evolution of IoT threats: Trends, tactics, and simulation analysis. Computers & Security, 2025. [Impact factor: 4.8, Q1 journal]",
+    "source_text": "Kok Onn Chee, Mengmeng Ge, Guangdong Bai, Dan Dongseong Kim: Unveiling the evolution of IoT threats: Trends, tactics, and simulation analysis. Computers & Security, 2025. [Impact factor: 4.8, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 15,
+    "authors": "Nhung H. Nguyen, Mengmeng Ge, Jin-Hee Cho, Terrence J. Moore, Seunghyun Yoon, Hyuk Lim, Frederica Nelson, Guangdong Bai, Dan Dongseong Kim",
+    "citation": "Graphical security modelling for Autonomous Vehicles: A novel approach to threat analysis and defence evaluation. Comput. Secur 150, 104229, 2025. [Impact factor: 4.8, Q1 journal]",
+    "source_text": "Nhung H. Nguyen, Mengmeng Ge, Jin-Hee Cho, Terrence J. Moore, Seunghyun Yoon, Hyuk Lim, Frederica Nelson, Guangdong Bai, Dan Dongseong Kim: Graphical security modelling for Autonomous Vehicles: A novel approach to threat analysis and defence evaluation. Comput. Secur 150, 104229, 2025. [Impact factor: 4.8, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 16,
+    "authors": "Kok Onn Chee, Mengmeng Ge, Guangdong Bai, Dan Dongseong Kim",
+    "citation": "IoTSecSim: A framework for modelling and simulation of security in Internet of things. Computers and Security, 2024.",
+    "source_text": "Kok Onn Chee, Mengmeng Ge, Guangdong Bai, Dan Dongseong Kim: IoTSecSim: A framework for modelling and simulation of security in Internet of things. Computers and Security, 2024.",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 17,
+    "authors": "Ke He, Dan Dongseong Kim, Muhammad Rizwan Asghar",
+    "citation": "NIDS-Vis: Improving the generalized adversarial robustness of network intrusion detection system. Computers and Security, 2024. [Impact factor: 4.8, Q1 journal]",
+    "source_text": "Ke He, Dan Dongseong Kim, Muhammad Rizwan Asghar: NIDS-Vis: Improving the generalized adversarial robustness of network intrusion detection system. Computers and Security, 2024. [Impact factor: 4.8, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 18,
+    "authors": "Juhwan Kim, Jihyeon Yu, Youngwoo Lee, Dan Dongseong Kim, Joobeom Yun",
+    "citation": "HD-FUZZ: Hardware dependency-aware firmware fuzzing via hybrid MMIO modeling. J. Netw. Comput. Appl 224, 103835, 2024.",
+    "source_text": "Juhwan Kim, Jihyeon Yu, Youngwoo Lee, Dan Dongseong Kim, Joobeom Yun: HD-FUZZ: Hardware dependency-aware firmware fuzzing via hybrid MMIO modeling. J. Netw. Comput. Appl 224, 103835, 2024.",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 19,
+    "authors": "Ke He, Dan Dongseong Kim, Muhammad Rizwan Asghar",
+    "citation": "Adversarial Machine Learning for Network Intrusion Detection Systems: A Comprehensive Survey. IEEE Communications Surveys and Tutorials, 2023. [Impact factor in 2021: 33.84]",
+    "source_text": "Ke He, Dan Dongseong Kim, Muhammad Rizwan Asghar: Adversarial Machine Learning for Network Intrusion Detection Systems: A Comprehensive Survey. IEEE Communications Surveys and Tutorials, 2023. [Impact factor in 2021: 33.84]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 20,
+    "authors": "Hooman Alavizadeh, Julian Jang-Jaccard, Simon Yusuf Enoch, Ian Welch, Seyit A. Camtepe, Dong Seong Kim",
+    "citation": "A Survey on Threat Situation Awareness Systems: Framework, Techniques, and Insights. ACM Computing Surveys, 2023. [Impact factor: 14.32, Q1 journal]",
+    "source_text": "Hooman Alavizadeh, Julian Jang-Jaccard, Simon Yusuf Enoch, Ian Welch, Seyit A. Camtepe, Dong Seong Kim: A Survey on Threat Situation Awareness Systems: Framework, Techniques, and Insights. ACM Computing Surveys, 2023. [Impact factor: 14.32, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 21,
+    "authors": "Hooman Alavizadeh, Samin Aref, Dong Seong Kim, Julian Jang-Jaccard",
+    "citation": "Evaluating the Security and Economic Effects of Moving Target Defense Techniques on the Cloud. IEEE Transactions on Emerging Topics in Computing, 2022. [Impact factor: 7.691, Q1 journal]",
+    "source_text": "Hooman Alavizadeh, Samin Aref, Dong Seong Kim, Julian Jang-Jaccard: Evaluating the Security and Economic Effects of Moving Target Defense Techniques on the Cloud. IEEE Transactions on Emerging Topics in Computing, 2022. [Impact factor: 7.691, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 22,
+    "authors": "Dongwon Lee, Yongwoo Oh, Jin B. Hong, Hyoungshick Kim, Dan Dongseong Kim",
+    "citation": "PP-GSM: Privacy-preserving graphical security model for security assessment as a service. Future Gener. Comput. Syst 142, pp. 351–363, 2023. [CORE Rank A, Impact factor: 7.307, Q1 journal]",
+    "source_text": "Dongwon Lee, Yongwoo Oh, Jin B. Hong, Hyoungshick Kim, Dan Dongseong Kim: PP-GSM: Privacy-preserving graphical security model for security assessment as a service. Future Gener. Comput. Syst 142, pp. 351–363, 2023. [CORE Rank A, Impact factor: 7.307, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 23,
+    "authors": "Simon Yusuf Enoch, Julio Mendonca, Jin B. Hong, Mengmeng Ge, Dong Seong Kim",
+    "citation": "An Integrated Security Hardening Optimization for Dynamic Networks Using Security and Availability Modeling with Multi-Objective Algorithm. Computer Networks, 2022. [CORE Rank A, Impact factor: 3.111, Q1 journal]",
+    "source_text": "Simon Yusuf Enoch, Julio Mendonca, Jin B. Hong, Mengmeng Ge, Dong Seong Kim: An Integrated Security Hardening Optimization for Dynamic Networks Using Security and Availability Modeling with Multi-Objective Algorithm. Computer Networks, 2022. [CORE Rank A, Impact factor: 3.111, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 24,
+    "authors": "Simon Yusuf Enoch, Chun Yong Moon, Donghwan Lee, Myung Kil Ahn, D. S. Kim",
+    "citation": "A Practical Framework for Cyber Defense Generation, Enforcement and Evaluation. Computer Networks, 2022. [CORE Rank A, Impact factor: 3.111, Q1 journal]",
+    "source_text": "Simon Yusuf Enoch, Chun Yong Moon, Donghwan Lee, Myung Kil Ahn, D. S. Kim: A Practical Framework for Cyber Defense Generation, Enforcement and Evaluation. Computer Networks, 2022. [CORE Rank A, Impact factor: 3.111, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 25,
+    "authors": "Simon Yusuf Enoch, Jang Se Lee, Dong Seong Kim",
+    "citation": "Novel security models, metrics and security assessment for maritime vessel networks. Comput. Networks 189, 107934, 2021. [CORE Rank A, Impact factor: 3.111, Q1 journal]",
+    "source_text": "Simon Yusuf Enoch, Jang Se Lee, Dong Seong Kim: Novel security models, metrics and security assessment for maritime vessel networks. Comput. Networks 189, 107934, 2021. [CORE Rank A, Impact factor: 3.111, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 26,
+    "authors": "Hooman Alavizadeh, Jin B. Hong, Dong Seong Kim, Julian Jang-Jaccard",
+    "citation": "Evaluating the effectiveness of shuffle and redundancy MTD techniques in the cloud. Comput. Secur 102, 102091, 2021. [CORE Rank B, Impact factor: 3.579, Q1 journal, Google Scholar ranking: #7 in computer security & cryptography]",
+    "source_text": "Hooman Alavizadeh, Jin B. Hong, Dong Seong Kim, Julian Jang-Jaccard: Evaluating the effectiveness of shuffle and redundancy MTD techniques in the cloud. Comput. Secur 102, 102091, 2021. [CORE Rank B, Impact factor: 3.579, Q1 journal, Google Scholar ranking: #7 in computer security & cryptography]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 27,
+    "authors": "A. Nhlabatsi, K. Khan, J. Hong, D. S. Kim, R. Fernandez, N. Fetais",
+    "citation": "Quantifying Satisfaction of Security Requirements of Cloud Software Systems. IEEE Transactions on Cloud Computing, 2021. [Impact factor: 5.938, Q1 journal]",
+    "source_text": "A. Nhlabatsi, K. Khan, J. Hong, D. S. Kim, R. Fernandez, N. Fetais: Quantifying Satisfaction of Security Requirements of Cloud Software Systems. IEEE Transactions on Cloud Computing, 2021. [Impact factor: 5.938, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 28,
+    "authors": "M. Ge, J.-H. Cho, Dong Seong Kim, G. Dixit, I.-R. Chen",
+    "citation": "Proactive Defense for Internet-of-Things: Moving Target Defense with Cyberdeception. ACM Transactions on Internet Technology (TOIT), 2021. [Impact factor: 3.315, Q1 journal]",
+    "source_text": "M. Ge, J.-H. Cho, Dong Seong Kim, G. Dixit, I.-R. Chen: Proactive Defense for Internet-of-Things: Moving Target Defense with Cyberdeception. ACM Transactions on Internet Technology (TOIT), 2021. [Impact factor: 3.315, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 29,
+    "authors": "Tuan Anh Nguyen, Minjune Kim, Jangse Lee, Dugki Min, Jae Woo Lee, Dong Seong Kim",
+    "citation": "Performability Evaluation of Switch-Over Moving Target Defense Mechanisms for a Software Defined Network using Stochastic Reward Net. JNCA, 2021. [CORE Rank A, Impact factor: 6.281, Q1 journal]",
+    "source_text": "Tuan Anh Nguyen, Minjune Kim, Jangse Lee, Dugki Min, Jae Woo Lee, Dong Seong Kim: Performability Evaluation of Switch-Over Moving Target Defense Mechanisms for a Software Defined Network using Stochastic Reward Net. JNCA, 2021. [CORE Rank A, Impact factor: 6.281, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 30,
+    "authors": "Hyunjun Kim, Sunwoo Ahn, Hyunjae Kang, Dong Seong Kim, Huy Kang Kim, Yunheung Paek",
+    "citation": "Panop: Mimicry-Resistant ANN-based Distributed NIDS for IoT Networks. IEEE Access, 2021. [Impact factor: 3.367, Q1 journal]",
+    "source_text": "Hyunjun Kim, Sunwoo Ahn, Hyunjae Kang, Dong Seong Kim, Huy Kang Kim, Yunheung Paek: Panop: Mimicry-Resistant ANN-based Distributed NIDS for IoT Networks. IEEE Access, 2021. [Impact factor: 3.367, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 31,
+    "authors": "Jin-Hee Cho, Dilli P. Sharma, Hooman Alavizadeh, Seunghyun Yoon, Noam Ben-Asher, Terrence J. Moore, Dong Seong Kim, Hyuk Lim, Frederica F. Nelson",
+    "citation": "Toward Proactive, Adaptive Defense: A Survey on Moving Target Defense. IEEE Communications Surveys & Tutorials, 2020. [Impact Factor 2018-19: 22.973, Q1 journal, H-index: 197]",
+    "source_text": "Jin-Hee Cho, Dilli P. Sharma, Hooman Alavizadeh, Seunghyun Yoon, Noam Ben-Asher, Terrence J. Moore, Dong Seong Kim, Hyuk Lim, Frederica F. Nelson: Toward Proactive, Adaptive Defense: A Survey on Moving Target Defense. IEEE Communications Surveys & Tutorials, 2020. [Impact Factor 2018-19: 22.973, Q1 journal, H-index: 197]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 32,
+    "authors": "Simon Yusuf Enoch, Zhibin Huang, Chun Yong Moon, Donghwan Lee, Myung Kil Ahn, Dong Seong Kim",
+    "citation": "HARMer: Cyber-Attacks Automation and Evaluation. IEEE Access 8, pp. 129397–129414, 2020. [Impact factor: 4.640, Q1 journal]",
+    "source_text": "Simon Yusuf Enoch, Zhibin Huang, Chun Yong Moon, Donghwan Lee, Myung Kil Ahn, Dong Seong Kim: HARMer: Cyber-Attacks Automation and Evaluation. IEEE Access 8, pp. 129397–129414, 2020. [Impact factor: 4.640, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 33,
+    "authors": "Jaehyoung Park, Dong Seong Kim, Hyuk Lim",
+    "citation": "Privacy-Preserving Reinforcement Learning Using Homomorphic Encryption in Cloud Computing Infrastructures. IEEE Access 8, pp. 203564–203579, 2020. [Impact factor: 4.640, Q1 journal]",
+    "source_text": "Jaehyoung Park, Dong Seong Kim, Hyuk Lim: Privacy-Preserving Reinforcement Learning Using Homomorphic Encryption in Cloud Computing Infrastructures. IEEE Access 8, pp. 203564–203579, 2020. [Impact factor: 4.640, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 34,
+    "authors": "Hooman Alavizadeh, D. S. Kim, Julian Jang-Jaccard",
+    "citation": "Model-based evaluation of combinations of Shuffle and Diversity MTD techniques on the cloud. Future Gener. Comput. Syst 111, pp. 507–522, 2020. [CORE Rank A, Impact factor: 7.010, Q1 journal]",
+    "source_text": "Hooman Alavizadeh, D. S. Kim, Julian Jang-Jaccard: Model-based evaluation of combinations of Shuffle and Diversity MTD techniques on the cloud. Future Gener. Comput. Syst 111, pp. 507–522, 2020. [CORE Rank A, Impact factor: 7.010, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 35,
+    "authors": "Dilli P. Sharma, Simon Yusuf Enoch, Jin-Hee Cho, Terrence J. Moore, Frederica Free-Nelson, Hyuk Lim, Dong Seong Kim",
+    "citation": "Dynamic Security Metrics for Software-Defined Network-based Moving Target Defense. J. Netw. Comput. Appl. (JNCA) 170, 102805, 2020. [CORE Rank A, Impact factor: 5.570, Q1 journal]",
+    "source_text": "Dilli P. Sharma, Simon Yusuf Enoch, Jin-Hee Cho, Terrence J. Moore, Frederica Free-Nelson, Hyuk Lim, Dong Seong Kim: Dynamic Security Metrics for Software-Defined Network-based Moving Target Defense. J. Netw. Comput. Appl. (JNCA) 170, 102805, 2020. [CORE Rank A, Impact factor: 5.570, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 36,
+    "authors": "Seunghyun Yoon, Jin-Hee Cho, Dong Seong Kim, Terrence J. Moore, Frederica Free-Nelson, Hyuk Lim",
+    "citation": "Attack Graph-Based Moving Target Defense in Software-Defined Networks. IEEE Trans. Netw. Serv. Manag 17(3), pp. 1653–1668, 2020. [Impact factor: 5.930, Q1 journal]",
+    "source_text": "Seunghyun Yoon, Jin-Hee Cho, Dong Seong Kim, Terrence J. Moore, Frederica Free-Nelson, Hyuk Lim: Attack Graph-Based Moving Target Defense in Software-Defined Networks. IEEE Trans. Netw. Serv. Manag 17(3), pp. 1653–1668, 2020. [Impact factor: 5.930, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 37,
+    "authors": "Simon Yusuf Enoch, Jin B. Hong, Dong Seong Kim",
+    "citation": "Security Modelling and Assessment of Modern Networks Using Time Independent Graphical Security Models. Journal of Network and Computer Applications (JNCA), 2019. [CORE Rank A, Impact factor: 5.273, Q1 journal]",
+    "source_text": "Simon Yusuf Enoch, Jin B. Hong, Dong Seong Kim: Security Modelling and Assessment of Modern Networks Using Time Independent Graphical Security Models. Journal of Network and Computer Applications (JNCA), 2019. [CORE Rank A, Impact factor: 5.273, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 38,
+    "authors": "Jin Hong, Simon Yusuf Enoch, Dong Seong Kim, Armstrong Nhlabatsi, Noora Fetais, Khaled Khan",
+    "citation": "Dynamic Security Metrics for Measuring the Effectiveness of Moving Target Defense Techniques. Computers and Security, 2018. [CORE Rank B, Impact factor: 2.650, Q1 journal, Google Scholar ranking: #7 in computer security & cryptography]",
+    "source_text": "Jin Hong, Simon Yusuf Enoch, Dong Seong Kim, Armstrong Nhlabatsi, Noora Fetais, Khaled Khan: Dynamic Security Metrics for Measuring the Effectiveness of Moving Target Defense Techniques. Computers and Security, 2018. [CORE Rank B, Impact factor: 2.650, Q1 journal, Google Scholar ranking: #7 in computer security & cryptography]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 39,
+    "authors": "S. Yusuf, M. Ge, J. B. Hong, H. Alzaid, Dong Seong Kim",
+    "citation": "A Systematic Evaluation of Cybersecurity Metrics for Dynamic Networks. Computer Networks, 2018. [CORE Rank A, Impact factor: 2.522, Q1 journal]",
+    "source_text": "S. Yusuf, M. Ge, J. B. Hong, H. Alzaid, Dong Seong Kim: A Systematic Evaluation of Cybersecurity Metrics for Dynamic Networks. Computer Networks, 2018. [CORE Rank A, Impact factor: 2.522, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 40,
+    "authors": "Mengmeng Ge, Jin B. Hong, Simon Enoch Yusuf, Dong Seong Kim",
+    "citation": "Proactive defense mechanisms for the software-defined Internet of Things with non-patchable vulnerabilities. Elsevier Future Generation Comp. Syst. (FGCS) 78, pp. 568–582, 2018. [CORE Rank A, Impact factor: 3.997, Q1 journal]",
+    "source_text": "Mengmeng Ge, Jin B. Hong, Simon Enoch Yusuf, Dong Seong Kim: Proactive defense mechanisms for the software-defined Internet of Things with non-patchable vulnerabilities. Elsevier Future Generation Comp. Syst. (FGCS) 78, pp. 568–582, 2018. [CORE Rank A, Impact factor: 3.997, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "journal",
+    "number": 41,
+    "authors": "M. Ge, J. B. Hong. W. Guttmann, D. S. Kim",
+    "citation": "A Framework for Automating Security Analysis of the Internet of Things. Journal of Network and Computer Applications (JNCA), 2017. [CORE Rank A, Impact factor: 3.5, Q1 journal]",
+    "source_text": "M. Ge, J. B. Hong. W. Guttmann, D. S. Kim: A Framework for Automating Security Analysis of the Internet of Things. Journal of Network and Computer Applications (JNCA), 2017. [CORE Rank A, Impact factor: 3.5, Q1 journal]",
+    "incomplete": false
+  },
+  {
+    "kind": "book",
+    "number": 1,
+    "authors": "Dan Dongseong Kim, Chao Chen",
+    "citation": "Machine Learning for Cyber Security - 5th International Conference, ML4CS 2023, Yanuca Island, Fiji, December 4-6, 2023, Proceedings. Lecture Notes in Computer Science 14541, Springer, 2024. ISBN: 978-981-97-2457-4.",
+    "source_text": "Dan Dongseong Kim, Chao Chen: Machine Learning for Cyber Security - 5th International Conference, ML4CS 2023, Yanuca Island, Fiji, December 4-6, 2023, Proceedings. Lecture Notes in Computer Science 14541, Springer, 2024. ISBN: 978-981-97-2457-4.",
+    "incomplete": false
+  },
+  {
+    "kind": "book",
+    "number": 2,
+    "authors": "Lynn Batten, Dong Seong Kim, Xuyun Zhang, Gang Li",
+    "citation": "Applications and Techniques in Information Security - 8th International Conference, ATIS 2017, Auckland, New Zealand, July 6-7, 2017, Proceedings. Communications in Computer and Information Science 719, Springer, 2017. ISBN: 978-981-10-5420-4.",
+    "source_text": "Lynn Batten, Dong Seong Kim, Xuyun Zhang, Gang Li: Applications and Techniques in Information Security - 8th International Conference, ATIS 2017, Auckland, New Zealand, July 6-7, 2017, Proceedings. Communications in Computer and Information Science 719, Springer, 2017. ISBN: 978-981-10-5420-4.",
+    "incomplete": false
+  },
+  {
+    "kind": "book",
+    "number": 3,
+    "authors": "Dong Seong Kim, Masato Kitakami, Vijay Varadharajan",
+    "citation": "22nd IEEE Pacific Rim International Symposium on Dependable Computing, PRDC 2017, Christchurch, New Zealand, January 22-25, 2017. IEEE Computer Society, 2017. ISBN: 978-1-5090-5652-1.",
+    "source_text": "Dong Seong Kim, Masato Kitakami, Vijay Varadharajan: 22nd IEEE Pacific Rim International Symposium on Dependable Computing, PRDC 2017, Christchurch, New Zealand, January 22-25, 2017. IEEE Computer Society, 2017. ISBN: 978-1-5090-5652-1.",
+    "incomplete": false
+  },
+  {
+    "kind": "book",
+    "number": 4,
+    "authors": "Barbara Kordy, Mathias Ekstedt, Dong Seong Kim",
+    "citation": "Graphical Models for Security - Third International Workshop, GraMSec 2016, Lisbon, Portugal, June 27, 2016, Revised Selected Papers. Lecture Notes in Computer Science 9987, Springer, 2016. ISBN: 978-3-319-46262-2.",
+    "source_text": "Barbara Kordy, Mathias Ekstedt, Dong Seong Kim: Graphical Models for Security - Third International Workshop, GraMSec 2016, Lisbon, Portugal, June 27, 2016, Revised Selected Papers. Lecture Notes in Computer Science 9987, Springer, 2016. ISBN: 978-3-319-46262-2.",
+    "incomplete": false
+  },
+  {
+    "kind": "book",
+    "number": 5,
+    "authors": "Ajith Abraham, Adel M. Alimi, Abdelkrim Haqiq, Dijiang Huang, Dong Seong Kim, Hannan Xiao, Nizar Rokbani, Mohamed Ben Halima, Azah Kamilah Muda, Kun Ma",
+    "citation": "11th International Conference on Information Assurance and Security, IAS 2015, Marrakech, Morocco, December 14-16, 2015. IEEE, 2015. ISBN: 978-1-4673-8715-6.",
+    "source_text": "Ajith Abraham, Adel M. Alimi, Abdelkrim Haqiq, Dijiang Huang, Dong Seong Kim, Hannan Xiao, Nizar Rokbani, Mohamed Ben Halima, Azah Kamilah Muda, Kun Ma: 11th International Conference on Information Assurance and Security, IAS 2015, Marrakech, Morocco, December 14-16, 2015. IEEE, 2015. ISBN: 978-1-4673-8715-6.",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 1,
+    "authors": "Nhung H. Nguyen, Hyunjae Kang, Tina Moghaddam, Myung Kil Ahn, Dan Dongseong Kim",
+    "citation": "A Safety Response Mechanism for Autonomous Vehicles under Cyber Attacks. International Conference on Cryptology and Network Security (CANS), 2026. [Accepted]",
+    "source_text": "Nhung H. Nguyen, Hyunjae Kang, Tina Moghaddam, Myung Kil Ahn, Dan Dongseong Kim: A Safety Response Mechanism for Autonomous Vehicles under Cyber Attacks. International Conference on Cryptology and Network Security (CANS), 2026. [Accepted]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 2,
+    "authors": "Dawood Wasif, Terrence J. Moore, Seunghyun Yoon, Hyuk Lim, Dan Dongseong Kim, Frederica F. Nelson, Jin-Hee Cho",
+    "citation": "RAIL: Risk-Aware Human-in-the-Loop Framework with Adaptive Intrusion Response for Autonomous Vehicles. 4th USENIX Symposium on Vehicle Security and Privacy (VehicleSec), 2026.",
+    "source_text": "Dawood Wasif, Terrence J. Moore, Seunghyun Yoon, Hyuk Lim, Dan Dongseong Kim, Frederica F. Nelson, Jin-Hee Cho: RAIL: Risk-Aware Human-in-the-Loop Framework with Adaptive Intrusion Response for Autonomous Vehicles. 4th USENIX Symposium on Vehicle Security and Privacy (VehicleSec), 2026.",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 3,
+    "authors": "Dawood Wasif, Terrence J. Moore, Seunghyun Yoon, Hyuk Lim, Dan Dongseong Kim, Frederica F. Nelson, Jin-Hee Cho",
+    "citation": "SHIELD: Secure Human-Machine Interaction with Evidential Learning and Dynamic Trust for Drone Swarm Control. 4th USENIX Symposium on Vehicle Security and Privacy (VehicleSec), 2026.",
+    "source_text": "Dawood Wasif, Terrence J. Moore, Seunghyun Yoon, Hyuk Lim, Dan Dongseong Kim, Frederica F. Nelson, Jin-Hee Cho: SHIELD: Secure Human-Machine Interaction with Evidential Learning and Dynamic Trust for Drone Swarm Control. 4th USENIX Symposium on Vehicle Security and Privacy (VehicleSec), 2026.",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 4,
+    "authors": "Aoran Zhang, Seonghoon Jeong, Hyunjae Kang, Dan Dongseong Kim",
+    "citation": "Lightweight Preprocessing Defenses for Robust Deepfake Detection against Adversarial Perturbations. Workshop on Security Implications of Deepfakes and Cheapfakes (WDC), 2026.",
+    "source_text": "Aoran Zhang, Seonghoon Jeong, Hyunjae Kang, Dan Dongseong Kim: Lightweight Preprocessing Defenses for Robust Deepfake Detection against Adversarial Perturbations. Workshop on Security Implications of Deepfakes and Cheapfakes (WDC), 2026.",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 5,
+    "authors": "Juncheng Wang, Dan Dongseong Kim",
+    "citation": "Towards Improving the Robustness of Deepfake Audio Detection With Denoising Methods. Workshop on Security Implications of Deepfakes and Cheapfakes (WDC), 2026.",
+    "source_text": "Juncheng Wang, Dan Dongseong Kim: Towards Improving the Robustness of Deepfake Audio Detection With Denoising Methods. Workshop on Security Implications of Deepfakes and Cheapfakes (WDC), 2026.",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 6,
+    "authors": "Xingyun Wang, Seonghoon Jeong, Hyunjae Kang, Dan Dongseong Kim",
+    "citation": "A Black-Box Inversion Attack on Small Language Models and Differential Privacy-Based Defense. ACM workshop, 2026. DOI: 10.1145/3803628.3807971. [Full workshop name to be confirmed]",
+    "source_text": "Xingyun Wang, Seonghoon Jeong, Hyunjae Kang, Dan Dongseong Kim: A Black-Box Inversion Attack on Small Language Models and Differential Privacy-Based Defense. ACM workshop, 2026. DOI: 10.1145/3803628.3807971. [Full workshop name to be confirmed]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 7,
+    "authors": "K. He, Dan Dongseong Kim, M. R. Asghar",
+    "citation": "LAGER: Layer-wise Graph Feature Extractor for Network Intrusion Detection. IEEE/IFIP DSN, 2025. [CORE Rank A]",
+    "source_text": "K. He, Dan Dongseong Kim, M. R. Asghar: LAGER: Layer-wise Graph Feature Extractor for Network Intrusion Detection. IEEE/IFIP DSN, 2025. [CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 8,
+    "authors": "Nhung H. Nguyen, Jin-Hee Cho, Terrence J. Moore, Seunghyun Yoon, Hyuk Lim, Frederica Nelson, Guangdong Bai, Dan Dongseong Kim",
+    "citation": "AuSSE: A Novel Framework for Security and Safety Evaluation for Autonomous Vehicles. DSN-S, pp. 1–5, 2024.",
+    "source_text": "Nhung H. Nguyen, Jin-Hee Cho, Terrence J. Moore, Seunghyun Yoon, Hyuk Lim, Frederica Nelson, Guangdong Bai, Dan Dongseong Kim: AuSSE: A Novel Framework for Security and Safety Evaluation for Autonomous Vehicles. DSN-S, pp. 1–5, 2024.",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 9,
+    "authors": "Subrat Kumar Swain, Vireshwar Kumar, Guangdong Bai, Dan Dongseong Kim",
+    "citation": "PANDA: Practical Adversarial Attack Against Network Intrusion Detection. DSN-S, pp. 28–32, 2024.",
+    "source_text": "Subrat Kumar Swain, Vireshwar Kumar, Guangdong Bai, Dan Dongseong Kim: PANDA: Practical Adversarial Attack Against Network Intrusion Detection. DSN-S, pp. 28–32, 2024.",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 10,
+    "authors": "Tina Moghaddam, Guowei Yang, Chandra Thapa, Seyit Camtepe, Dan Dongseong Kim",
+    "citation": "MTD in Plain Sight: Hiding Network Behavior in Moving Target Defenses. DSN-S, pp. 50–52, 2024.",
+    "source_text": "Tina Moghaddam, Guowei Yang, Chandra Thapa, Seyit Camtepe, Dan Dongseong Kim: MTD in Plain Sight: Hiding Network Behavior in Moving Target Defenses. DSN-S, pp. 50–52, 2024.",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 11,
+    "authors": "Faraz Ghasemzadeh, Tina Moghaddam, Jingming Dai, Joobeom Yun, Dan Dongseong Kim",
+    "citation": "Towards Generalized Detection of Face-Swap Deepfake Images. WDC@AsiaCCS, 2024.",
+    "source_text": "Faraz Ghasemzadeh, Tina Moghaddam, Jingming Dai, Joobeom Yun, Dan Dongseong Kim: Towards Generalized Detection of Face-Swap Deepfake Images. WDC@AsiaCCS, 2024.",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 12,
+    "authors": "Qisheng Zhang, Jin-Hee Cho, Terrence J. Moore, Dan Dongseong Kim, Hyuk Lim, Frederica Nelson",
+    "citation": "EVADE: Efficient Moving Target Defense for Autonomous Network Topology Shuffling Using Deep Reinforcement Learning. ACNS (1), pp. 555–582, 2023. [CORE Rank B]",
+    "source_text": "Qisheng Zhang, Jin-Hee Cho, Terrence J. Moore, Dan Dongseong Kim, Hyuk Lim, Frederica Nelson: EVADE: Efficient Moving Target Defense for Autonomous Network Topology Shuffling Using Deep Reinforcement Learning. ACNS (1), pp. 555–582, 2023. [CORE Rank B]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 13,
+    "authors": "Subrat Kumar Swain, Vireshwar Kumar, Dan Dongseong Kim, Guangdong Bai",
+    "citation": "SPAT: Semantic-Preserving Adversarial Transformation for Perceptually Similar Adversarial Examples. ECAI, pp. 2266–2273, 2023. [CORE Rank A]",
+    "source_text": "Subrat Kumar Swain, Vireshwar Kumar, Dan Dongseong Kim, Guangdong Bai: SPAT: Semantic-Preserving Adversarial Transformation for Perceptually Similar Adversarial Examples. ECAI, pp. 2266–2273, 2023. [CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 14,
+    "authors": "Tino Jungebloud, Nhung H. Nguyen, Dong Seong Kim, Armin Zimmermann",
+    "citation": "Hierarchical Model-Based Cybersecurity Risk Assessment During System Design. SEC, pp. 30–44, 2023. [CORE Rank B]",
+    "source_text": "Tino Jungebloud, Nhung H. Nguyen, Dong Seong Kim, Armin Zimmermann: Hierarchical Model-Based Cybersecurity Risk Assessment During System Design. SEC, pp. 30–44, 2023. [CORE Rank B]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 15,
+    "authors": "Xinyi Wang, Simon Yusuf Enoch, Dan Dongseong Kim",
+    "citation": "Semantic Preserving Adversarial Attack Generation with Autoencoder and Genetic Algorithm. GLOBECOM, pp. 80–85, 2022. [CORE Rank B]",
+    "source_text": "Xinyi Wang, Simon Yusuf Enoch, Dan Dongseong Kim: Semantic Preserving Adversarial Attack Generation with Autoencoder and Genetic Algorithm. GLOBECOM, pp. 80–85, 2022. [CORE Rank B]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 16,
+    "authors": "Minjune Kim, Jin-Hee Cho, Hyuk Lim, Terrence J. Moore, Frederica F. Nelson, Dan Dongseong Kim",
+    "citation": "Performance and Security Evaluation of a Moving Target Defense Based on a Software-Defined Networking Environment. PRDC, pp. 119–129, 2022. [CORE Rank B]",
+    "source_text": "Minjune Kim, Jin-Hee Cho, Hyuk Lim, Terrence J. Moore, Frederica F. Nelson, Dan Dongseong Kim: Performance and Security Evaluation of a Moving Target Defense Based on a Software-Defined Networking Environment. PRDC, pp. 119–129, 2022. [CORE Rank B]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 17,
+    "authors": "Júlio Mendonça, Minjune Kim, Rafal Graczyk, Marcus Völp, Dan Dongseong Kim",
+    "citation": "Security Modeling and Analysis of Moving Target Defense in Software Defined Networks. PRDC, pp. 141–151, 2022. [CORE Rank B]",
+    "source_text": "Júlio Mendonça, Minjune Kim, Rafal Graczyk, Marcus Völp, Dan Dongseong Kim: Security Modeling and Analysis of Moving Target Defense in Software Defined Networks. PRDC, pp. 141–151, 2022. [CORE Rank B]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 18,
+    "authors": "Minjune Kim, Jin-Hee Cho, Hyuk Lim, Terrence J. Moore, Frederica F. Nelson, Ryan K. L. Ko, Dan Dongseong Kim",
+    "citation": "Evaluating Performance and Security of a Hybrid Moving Target Defense in SDN Environments. QRS, pp. 276–286, 2022. [CORE Rank B]",
+    "source_text": "Minjune Kim, Jin-Hee Cho, Hyuk Lim, Terrence J. Moore, Frederica F. Nelson, Ryan K. L. Ko, Dan Dongseong Kim: Evaluating Performance and Security of a Hybrid Moving Target Defense in SDN Environments. QRS, pp. 276–286, 2022. [CORE Rank B]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 19,
+    "authors": "Júlio Mendonça, Jin-Hee Cho, Terrence J. Moore, Frederica F. Nelson, Hyuk Lim, Armin Zimmermann, Dong Seong Kim",
+    "citation": "Performability Analysis of Services in a Software-Defined Networking adopting Time-Based Moving Target Defense Mechanisms. ACM SAC, 2020. [CORE Rank B]",
+    "source_text": "Júlio Mendonça, Jin-Hee Cho, Terrence J. Moore, Frederica F. Nelson, Hyuk Lim, Armin Zimmermann, Dong Seong Kim: Performability Analysis of Services in a Software-Defined Networking adopting Time-Based Moving Target Defense Mechanisms. ACM SAC, 2020. [CORE Rank B]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 20,
+    "authors": "Hooman Alavizadeh, Hootan Alavizadeh, Dong Seong Kim, Julian Jang-Jaccard, Masood Niazi Torshiz",
+    "citation": "An Automated Security Analysis Framework and Implementation for MTD techniques on Cloud. ICISC, 2019. [CORE Rank B]",
+    "source_text": "Hooman Alavizadeh, Hootan Alavizadeh, Dong Seong Kim, Julian Jang-Jaccard, Masood Niazi Torshiz: An Automated Security Analysis Framework and Implementation for MTD techniques on Cloud. ICISC, 2019. [CORE Rank B]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 21,
+    "authors": "Huichen Lin, Dongseong Kim, Neil Bergmann",
+    "citation": "SAGA: Secure Auto-configurable Gateway Architecture for Smart Home. IEEE PRDC, 2019. [CORE Rank B]",
+    "source_text": "Huichen Lin, Dongseong Kim, Neil Bergmann: SAGA: Secure Auto-configurable Gateway Architecture for Smart Home. IEEE PRDC, 2019. [CORE Rank B]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 22,
+    "authors": "Simon Yusuf Enoch, Jin B. Hong, Mengmeng Ge, Khaled M. Khan, Dong Seong Kim",
+    "citation": "Multi-Objective Security Hardening Optimisation for Dynamic Networks. IEEE ICC’19 - CISS Symposium, 2019. [CORE Rank B]",
+    "source_text": "Simon Yusuf Enoch, Jin B. Hong, Mengmeng Ge, Khaled M. Khan, Dong Seong Kim: Multi-Objective Security Hardening Optimisation for Dynamic Networks. IEEE ICC’19 - CISS Symposium, 2019. [CORE Rank B]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 23,
+    "authors": "Dilli P. Sharma, Jin-Hee Cho, Terrence J. Moore, Frederica F. Nelson, Hyuk Lim, Dong Seong Kim",
+    "citation": "Random Host and Service Multiplexing for Moving Target Defense in Software-Defined Networks. IEEE ICC’19 - CISS Symposium, 2019. [CORE Rank B]",
+    "source_text": "Dilli P. Sharma, Jin-Hee Cho, Terrence J. Moore, Frederica F. Nelson, Hyuk Lim, Dong Seong Kim: Random Host and Service Multiplexing for Moving Target Defense in Software-Defined Networks. IEEE ICC’19 - CISS Symposium, 2019. [CORE Rank B]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 24,
+    "authors": "Júlio Mendonça, Ricardo Lima, Ewerton Queiroz, Ermeson Andrade, Dong Seong Kim",
+    "citation": "Evaluation of a Backup-as-a-Service Environment for Disaster Recovery. IEEE ISCC, 2019. [CORE Rank B]",
+    "source_text": "Júlio Mendonça, Ricardo Lima, Ewerton Queiroz, Ermeson Andrade, Dong Seong Kim: Evaluation of a Backup-as-a-Service Environment for Disaster Recovery. IEEE ISCC, 2019. [CORE Rank B]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 25,
+    "authors": "Taehoon Eom, Jin B. Hong, Seongmo An, Jong-Sou Park, Dong Seong Kim",
+    "citation": "Security and Performance Modeling and Optimization for Software Defined Networking. IEEE Trustcom, 2019. [CORE Rank A]",
+    "source_text": "Taehoon Eom, Jin B. Hong, Seongmo An, Jong-Sou Park, Dong Seong Kim: Security and Performance Modeling and Optimization for Software Defined Networking. IEEE Trustcom, 2019. [CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 26,
+    "authors": "Cole Dishington, Dilli Sharma, Dong Seong Kim, Jin-Hee Cho, Terrence Moore, Frederica Nelson",
+    "citation": "Security and Performance Assessment of IP Multiplexing Moving Target Defence in Software Defined Networks. IEEE Trustcom, 2019. [CORE Rank A]",
+    "source_text": "Cole Dishington, Dilli Sharma, Dong Seong Kim, Jin-Hee Cho, Terrence Moore, Frederica Nelson: Security and Performance Assessment of IP Multiplexing Moving Target Defence in Software Defined Networks. IEEE Trustcom, 2019. [CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 27,
+    "authors": "Seongmo An, Taehoon Eom, Jong-Sou Park, Jin B. Hong, Armstrong Nhlabatsi, Noora Fetais, Khaled Khan, Dong Seong Kim",
+    "citation": "CloudSafe: A Tool for an Automated Security Analysis for Cloud Computing. IEEE Trustcom, 2019. [CORE Rank A]",
+    "source_text": "Seongmo An, Taehoon Eom, Jong-Sou Park, Jin B. Hong, Armstrong Nhlabatsi, Noora Fetais, Khaled Khan, Dong Seong Kim: CloudSafe: A Tool for an Automated Security Analysis for Cloud Computing. IEEE Trustcom, 2019. [CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 28,
+    "authors": "Ke He, Dong Seong Kim",
+    "citation": "Malware Detection with Malware Images using Deep Learning Techniques. IEEE Trustcom, 2019. [CORE Rank A]",
+    "source_text": "Ke He, Dong Seong Kim: Malware Detection with Malware Images using Deep Learning Techniques. IEEE Trustcom, 2019. [CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 29,
+    "authors": "Amelia Samandari, Mengmeng Ge, Jin B. Hong, Dong Seong Kim",
+    "citation": "Evaluating the Security of IoT Networks with Mobile Devices. IEEE PRDC, 2018. [CORE Rank B]",
+    "source_text": "Amelia Samandari, Mengmeng Ge, Jin B. Hong, Dong Seong Kim: Evaluating the Security of IoT Networks with Mobile Devices. IEEE PRDC, 2018. [CORE Rank B]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 30,
+    "authors": "Hooman Alavizadeh, Jin B. Hong, Julian Jang-Jaccard, Dong Seong Kim",
+    "citation": "Comprehensive Security Assessment of Combined MTD Techniques for the Cloud. MTD@CCS, pp. 11–20, 2018. [CCS is CORE Rank A*]",
+    "source_text": "Hooman Alavizadeh, Jin B. Hong, Julian Jang-Jaccard, Dong Seong Kim: Comprehensive Security Assessment of Combined MTD Techniques for the Cloud. MTD@CCS, pp. 11–20, 2018. [CCS is CORE Rank A*]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 31,
+    "authors": "Hooman Alavizadeh, Julian Jang-Jaccard, Dong Seong Kim",
+    "citation": "Evaluation for Combination of Shuffle and Diversity on Moving Target Defense Strategy for Cloud Computing. TrustCom, pp. 573–578, 2018. [CORE Rank A]",
+    "source_text": "Hooman Alavizadeh, Julian Jang-Jaccard, Dong Seong Kim: Evaluation for Combination of Shuffle and Diversity on Moving Target Defense Strategy for Cloud Computing. TrustCom, pp. 573–578, 2018. [CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 32,
+    "authors": "Dilli Prasad Sharma, Dong Seong Kim, Seunghyun Yoon, Hyuk Lim, Jin-Hee Cho, Terrence J. Moore",
+    "citation": "FRVM: Flexible Random Virtual IP Multiplexing in Software-Defined Networks. TrustCom, pp. 579–587, 2018. [CORE Rank A]",
+    "source_text": "Dilli Prasad Sharma, Dong Seong Kim, Seunghyun Yoon, Hyuk Lim, Jin-Hee Cho, Terrence J. Moore: FRVM: Flexible Random Virtual IP Multiplexing in Software-Defined Networks. TrustCom, pp. 579–587, 2018. [CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 33,
+    "authors": "Simon Enoch Yusuf, Jin B. Hong, Dong Seong Kim",
+    "citation": "Time Independent Security Analysis for Dynamic Networks Using Graphical Security Models. TrustCom, pp. 588–595, 2018. [CORE Rank A]",
+    "source_text": "Simon Enoch Yusuf, Jin B. Hong, Dong Seong Kim: Time Independent Security Analysis for Dynamic Networks Using Graphical Security Models. TrustCom, pp. 588–595, 2018. [CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 34,
+    "authors": "Simon Enoch Yusuf, Mengmeng Ge, Jin B. Hong, Hani Alzaid, Dong Seong Kim",
+    "citation": "Evaluating the Effectiveness of Security Metrics for Dynamic Networks. TrustCom/BigDataSE/ICESS, pp. 277–284, 2017. [CORE Rank A]",
+    "source_text": "Simon Enoch Yusuf, Mengmeng Ge, Jin B. Hong, Hani Alzaid, Dong Seong Kim: Evaluating the Effectiveness of Security Metrics for Dynamic Networks. TrustCom/BigDataSE/ICESS, pp. 277–284, 2017. [CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 35,
+    "authors": "Jin B. Hong, Seunghyun Yoon, Hyuk Lim, Dong Seong Kim",
+    "citation": "Optimal network reconfiguration for software defined networks using shuffle-based online MTD. International Symposium on Reliable Distributed Systems (SRDS), 2017. [Hong Kong, China, September 26–29; CORE Rank A]",
+    "source_text": "Jin B. Hong, Seunghyun Yoon, Hyuk Lim, Dong Seong Kim: Optimal network reconfiguration for software defined networks using shuffle-based online MTD. International Symposium on Reliable Distributed Systems (SRDS), 2017. [Hong Kong, China, September 26–29; CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 36,
+    "authors": "Jin B. Hong, Dong Seong Kim",
+    "citation": "Discovering and Mitigating New Attack Paths using Graphical Security Models. Proceedings of the 47th IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W), 2017. [DSN is CORE Rank A]",
+    "source_text": "Jin B. Hong, Dong Seong Kim: Discovering and Mitigating New Attack Paths using Graphical Security Models. Proceedings of the 47th IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W), 2017. [DSN is CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 37,
+    "authors": "Hyungseok Kim, Sukjun Ko, Dong Seong Kim, Huy Kang Kim",
+    "citation": "Firewall Ruleset Visualization Analysis Tool Based on Segmentation. VizSec, 2017. [The top tier “security” visualization conference]",
+    "source_text": "Hyungseok Kim, Sukjun Ko, Dong Seong Kim, Huy Kang Kim: Firewall Ruleset Visualization Analysis Tool Based on Segmentation. VizSec, 2017. [The top tier “security” visualization conference]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 38,
+    "authors": "Jin Hong, Dong Seong Kim",
+    "citation": "Scalable Security Models for Assessing Effectiveness of Moving Target Defenses. DSN, 2014. [June, Atlanta, GA, USA; CORE Rank A]",
+    "source_text": "Jin Hong, Dong Seong Kim: Scalable Security Models for Assessing Effectiveness of Moving Target Defenses. DSN, 2014. [June, Atlanta, GA, USA; CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 39,
+    "authors": "Jin B. Hong, Dong Seong Kim, Abdelkrim Haqiq",
+    "citation": "What Vulnerability Do We Need to Patch First?. DSN Workshop, 2014. [DSN is CORE Rank A]",
+    "source_text": "Jin B. Hong, Dong Seong Kim, Abdelkrim Haqiq: What Vulnerability Do We Need to Patch First?. DSN Workshop, 2014. [DSN is CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 40,
+    "authors": "Jin Hong, Dong Seong Kim",
+    "citation": "Scalable Security Model Generation and Analysis using kimportance Measure. the 9th International Conference on Security and Privacy in Communication Networks (SecureComm), 2013. [September, Sydney, Australia; CORE Rank A]",
+    "source_text": "Jin Hong, Dong Seong Kim: Scalable Security Model Generation and Analysis using kimportance Measure. the 9th International Conference on Security and Privacy in Communication Networks (SecureComm), 2013. [September, Sydney, Australia; CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 41,
+    "authors": "Jin Hong, Dong Seong Kim",
+    "citation": "Scalable Attack Representation Model using Logic Reduction Techniques. TrustCom, 2013. [Melbourne, Australia; CORE Rank A]",
+    "source_text": "Jin Hong, Dong Seong Kim: Scalable Attack Representation Model using Logic Reduction Techniques. TrustCom, 2013. [Melbourne, Australia; CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 42,
+    "authors": "Jin Hong, Dong Seong Kim",
+    "citation": "Scalable Security Analysis in Hierarchical Attack Representation Model using Centrality Measures. Int. Conf. on Dependable Systems and Networks Workshops (DSNW), 2013. [Budapest, Hungary; DSN is CORE Rank A]",
+    "source_text": "Jin Hong, Dong Seong Kim: Scalable Security Analysis in Hierarchical Attack Representation Model using Centrality Measures. Int. Conf. on Dependable Systems and Networks Workshops (DSNW), 2013. [Budapest, Hungary; DSN is CORE Rank A]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 43,
+    "authors": "Arpan Roy, Dong Seong Kim, Kishor S. Trivedi",
+    "citation": "Scalable Optimal Countermeasure Selection using Implicit Enumeration on Attack Countermeasure Trees. Int. Conference on Dependable Systems and Networks (DSN), 2012. [Boston, USA; CORE Rank A*]",
+    "source_text": "Arpan Roy, Dong Seong Kim, Kishor S. Trivedi: Scalable Optimal Countermeasure Selection using Implicit Enumeration on Attack Countermeasure Trees. Int. Conference on Dependable Systems and Networks (DSN), 2012. [Boston, USA; CORE Rank A*]",
+    "incomplete": false
+  },
+  {
+    "kind": "conference",
+    "number": 44,
+    "authors": "Fumio Machida, Ermeson Andrade, Dong Seong Kim, Kishor S. Trivedi",
+    "citation": "Candy: Componentbased Availability Modeling Framework for Cloud Service Management Using SysML. the 30th IEEE Symposium on Reliable",
+    "source_text": "Fumio Machida, Ermeson Andrade, Dong Seong Kim, Kishor S. Trivedi: Candy: Componentbased Availability Modeling Framework for Cloud Service Management Using SysML. the 30th IEEE Symposium on Reliable",
+    "incomplete": true
+  }
+]

@@ -1,0 +1,52 @@
+Dependable and Secure systems Lab
+Research
+Research areas
+Research Focus: Cyber G.A.M.E
+Graphical Models for Cyber Security: Model-based Cyber Security Risk Analysis
+Graphical Models for Cyber Security: Model-based Cyber Security Risk Analysis
+AI for Cybersecurity & Cyber Security for AI: Securing AI systems and Cybersecurity using AI techniques
+AI for Cybersecurity & Cyber Security for AI: Securing AI systems and Cybersecurity using AI techniques
+Moving Target Defense (MTD): Resilient and Proactive Defence
+Moving Target Defense (MTD): Resilient and Proactive Defence
+Evolving Attacks and Defense Automation: Red team and Blue team Automation and evaluation using AI
+Evolving Attacks and Defense Automation: Red team and Blue team Automation and evaluation using AI
+Research Domains: CANVAS-AI
+C – Cyber-Physical Systems (smart grids, intelligent water distribution, IoT systems)
+C – Cyber-Physical Systems (smart grids, intelligent water distribution, IoT systems)
+A – Autonomous and Unmanned Systems (UGVs, UAVs, USVs, drones, maritime vessels, autonomous vehicles)
+A – Autonomous and Unmanned Systems (UGVs, UAVs, USVs, drones, maritime vessels, autonomous vehicles)
+N – Networks (Enterprise, Cloud, Edge, Software-Defined Networking)
+N – Networks (Enterprise, Cloud, Edge, Software-Defined Networking)
+V – Vehicles (Autonomous land, aerial, maritime systems)
+V – Vehicles (Autonomous land, aerial, maritime systems)
+A – Advanced Satellite Systems
+A – Advanced Satellite Systems
+S – Smart Systems (integration of cyber-physical, IoT, edge computing)
+S – Smart Systems (integration of cyber-physical, IoT, edge computing)
+AI – Artificial Intelligence Systems (for control, optimization, and resilience across domains)
+AI – Artificial Intelligence Systems (for control, optimization, and resilience across domains)
+On-going Research Projects (selected)
+Dan Kim. ADD Project (PI) 2024, "Cyber Threat and Defense Modeling for Unmanned/Autonomous Vehicles", 2024-2026.
+Dan Kim. ADD Project (PI) 2024, "Cyber Threat and Defense Modeling for Unmanned/Autonomous Vehicles", 2024-2026.
+Dan Kim, International Energy Joint R&D Program (co-PI) 2024, "Development of Cyber-Physical Attack Response System and Security Management System for Maximizing Availability of Real-Time Distributed Resources", 2024-2027.
+Dan Kim, International Energy Joint R&D Program (co-PI) 2024, "Development of Cyber-Physical Attack Response System and Security Management System for Maximizing Availability of Real-Time Distributed Resources", 2024-2027.
+Past Research Project(s) (selected)
+Dan Kim. ITC-PAC & US ARL Project (PI) 2020, "Resilient Learning-based Defense under Adversarial and Uncertain Environments", 2020-2023.
+Dan Kim. ITC-PAC & US ARL Project (PI) 2020, "Resilient Learning-based Defense under Adversarial and Uncertain Environments", 2020-2023.
+Dan Kim. ITC-PAC & US ARL Project (co-PI) 2019, "Development and Evaluation of Service-Aware Intelligent Moving Target Defense for Tactical Networks", 2019-2020.
+Dan Kim. ITC-PAC & US ARL Project (co-PI) 2019, "Development and Evaluation of Service-Aware Intelligent Moving Target Defense for Tactical Networks", 2019-2020.
+Dan Kim. ADD Project (PI) 2019, "Modeling Methods of Threat & Defense Activities in Cyber Training Environments", 2019-2020.
+Dan Kim. ADD Project (PI) 2019, "Modeling Methods of Threat & Defense Activities in Cyber Training Environments", 2019-2020.
+Dan Kim. MBIE Catalyst Strategic Project (PI) 2018, "Advanced Security Technologies for the Internet of Things", 2018-2022.
+Dan Kim. MBIE Catalyst Strategic Project (PI) 2018, "Advanced Security Technologies for the Internet of Things", 2018-2022.
+Dan Kim, ITC-PAC Project (co-PI) 2018, "Development and Evaluation of Software Defined Networking Based Moving Target Defenses", 2018-2019.
+Dan Kim, ITC-PAC Project (co-PI) 2018, "Development and Evaluation of Software Defined Networking Based Moving Target Defenses", 2018-2019.
+Dan Kim. Qatar National Research Fund (NZ PI) 2016, "Security Risk Modeling and Assessment of Cloud Computing", 2016-2019.
+Dan Kim. Qatar National Research Fund (NZ PI) 2016, "Security Risk Modeling and Assessment of Cloud Computing", 2016-2019.
+Dan Kim. University of Canterbury Research & Innovation (PI) 2016, "Safelite: UCan Assess Cybersecurity", 2016-2019.
+Dan Kim. University of Canterbury Research & Innovation (PI) 2016, "Safelite: UCan Assess Cybersecurity", 2016-2019.
+Dan Kim. NATO SPS Project (Researcher) 2015, "Cyber Security Assurance Using Cloud-Based Security Measurement System", 2015.
+Dan Kim. NATO SPS Project (Researcher) 2015, "Cyber Security Assurance Using Cloud-Based Security Measurement System", 2015.
+Dan Kim. Korea Research Foundation Project (PI) 2007, "An Integrated Security Management for Survivability of Sensor Networks", 2007.
+Dan Kim. Korea Research Foundation Project (PI) 2007, "An Integrated Security Management for Survivability of Sensor Networks", 2007.
+On this page

@@ -1,0 +1,65 @@
+Research · Intrusion detection
+Datasets
+Research areas
+IDS datasets
+IoT Datasets
+University of Queensland (UQ) IoT dataset (data: link) (description)
+Paper: He, Ke, Kim, Dan, Zhang, Zhien, Ge, Mengmeng, Lam, Ulysses, and Yu, Jiaqi(2022). UQ IoT IDS dataset 2021. The University of Queensland. Data Collection.
+Paper: He, Ke, Kim, Dan, Zhang, Zhien, Ge, Mengmeng, Lam, Ulysses, and Yu, Jiaqi(2022). UQ IoT IDS dataset 2021. The University of Queensland. Data Collection.
+Korea University (KU) IoT dataset (data link)
+Paper: Hyunjae Kang, Dong Hyun Ahn, Gyung Min Lee, Jeong Do Yoo, Kyung Ho Park, Huy Kang Kim, September 27, 2019, "IoT network intrusion dataset", IEEE Dataport, doi: https://dx.doi.org/10.21227/q70p-q449. )
+Paper: Hyunjae Kang, Dong Hyun Ahn, Gyung Min Lee, Jeong Do Yoo, Kyung Ho Park, Huy Kang Kim, September 27, 2019, "IoT network intrusion dataset", IEEE Dataport, doi: https://dx.doi.org/10.21227/q70p-q449. )
+Ontario Tech University (OTU) IoT botnet dataset (link)
+paper: I. Ullah and Q. H. Mahmoud, "A Scheme for Generating a Dataset for Anomalous Activity Detection in IoT Networks." In: Goutte C., Zhu X. (eds) Advances in Artificial Intelligence. Canadian AI 2020. Lecture Notes in Computer Science, vol 12109. Springer, Cham. https://doi.org/10.1007/978-3-030-47358-7_52
+paper: I. Ullah and Q. H. Mahmoud, "A Scheme for Generating a Dataset for Anomalous Activity Detection in IoT Networks." In: Goutte C., Zhu X. (eds) Advances in Artificial Intelligence. Canadian AI 2020. Lecture Notes in Computer Science, vol 12109. Springer, Cham. https://doi.org/10.1007/978-3-030-47358-7_52
+UNB CIC IoT dataset 2023 (link)
+UNB CIC IoT dataset 2023 (link)
+Kitsune Network Attack 2019 (link)
+Kitsune Network Attack 2019 (link)
+UNSW Bot-IoT dataset 2019 (link)
+UNSW Bot-IoT dataset 2019 (link)
+Other available datasets (please email me if you want to add your dataset here).
+Other available datasets (please email me if you want to add your dataset here).
+Enterprise networks
+DDoS evaluation dataset (CIC-DDoS2019) (link)
+DDoS evaluation dataset (CIC-DDoS2019) (link)
+Intrusion Detection evaluation dataset (CIC-IDS2017) (link)
+Intrusion Detection evaluation dataset (CIC-IDS2017) (link)
+DDoS evaluation dataset (CIC-DDoS2019)
+DDoS evaluation dataset (CIC-DDoS2019)
+UNSW-NB15 (UNSQ-NB15) (link)
+UNSW-NB15 (UNSQ-NB15) (link)
+UQ Netflow based IDS datasets (link)
+UQ Netflow based IDS datasets (link)
+CoAt-Set (Coordinated Attack Dataset) on Heterogeneous Computer Network (link)
+CoAt-Set (Coordinated Attack Dataset) on Heterogeneous Computer Network (link)
+NSL-KDD 2009 (not recommended to use) (link).
+NSL-KDD 2009 (not recommended to use) (link).
+Kyoto 2006+ (not recommended to use) (link).
+Kyoto 2006+ (not recommended to use) (link).
+KDD Cupp 1999 Data (strongly not recommended to use) (link).
+KDD Cupp 1999 Data (strongly not recommended to use) (link).
+Autonomous Vehicles
+Please refer to Table 4 of the following paper (for the first three datasets from the top): https://www.sciencedirect.com/science/article/pii/S0167404824000786
+Korea University (KU): HCRL Attack & Defense Challenge dataset (with Hyundai Avante CN7) 2021 (link)
+Paper: Hyunjae Kang, Byung Il Kwak, Young Hun Lee, Haneol Lee, Hwejae Lee and Huy Kang Kim. "Car Hacking and Defense Competition on In-Vehicle Network." Third International Workshop on Automotive and Autonomous Vehicle Security, 2021.
+Paper: Hyunjae Kang, Byung Il Kwak, Young Hun Lee, Haneol Lee, Hwejae Lee and Huy Kang Kim. "Car Hacking and Defense Competition on In-Vehicle Network." Third International Workshop on Automotive and Autonomous Vehicle Security, 2021.
+Real ORNL Automotive Dynamometer (ROAD) dataset (Unknown mid-2010s) 2020 (link)
+Paper: Verma, M. E., Bridges, R. A., Iannacone, M. D., Hollifield, S. C., Moriano, P., Hespeler, S. C., ... & Combs, F. L. (2024). A comprehensive guide to CAN IDS data and introduction of the ROAD dataset. PLoS one, 19(1), e0296879.
+Paper: Verma, M. E., Bridges, R. A., Iannacone, M. D., Hollifield, S. C., Moriano, P., Hespeler, S. C., ... & Combs, F. L. (2024). A comprehensive guide to CAN IDS data and introduction of the ROAD dataset. PLoS one, 19(1), e0296879.
+DTU can-train-and-test dataset (with Chevrolet Impala, Chevrolet Traverse, Chevrolet Silverado, and Subaru Forester) 2023 (link)
+Paper: Lampe, B., & Meng, W. (2024). can-train-and-test: A curated can dataset for automotive intrusion detection. Computers & Security, 140, 103777.
+Paper: Lampe, B., & Meng, W. (2024). can-train-and-test: A curated can dataset for automotive intrusion detection. Computers & Security, 140, 103777.
+CAN-MIRGU dataset (Unknown manufactured in 2016) 2024 (link)
+Paper: S. Rajapaksha, G. Madzudzo, H. Kalutarage, A. Petrovski and M.O. Al-Kadri. (2024). "CAN-MIRGU: A Comprehensive CAN Bus Attack Dataset from Moving Vehicles for Intrusion Detection System Evaluation." Symposium on Vehicles Security and Privacy (VehicleSec) 2024.
+Paper: S. Rajapaksha, G. Madzudzo, H. Kalutarage, A. Petrovski and M.O. Al-Kadri. (2024). "CAN-MIRGU: A Comprehensive CAN Bus Attack Dataset from Moving Vehicles for Intrusion Detection System Evaluation." Symposium on Vehicles Security and Privacy (VehicleSec) 2024.
+Korea University (KU): HCRL X-CANIDS dataset (with Hyundai LF Sonata) 2024 (link)
+Paper: Jeong, S., Lee, S., Lee, H., & Kim, H. K. (2023). X-CANIDS: Signal-aware explainable intrusion detection system for controller area network-based in-vehicle network. IEEE Transactions on Vehicular Technology, 73(3), 3230-3246.
+Paper: Jeong, S., Lee, S., Lee, H., & Kim, H. K. (2023). X-CANIDS: Signal-aware explainable intrusion detection system for controller area network-based in-vehicle network. IEEE Transactions on Vehicular Technology, 73(3), 3230-3246.
+ETAS GmbH: SynCAN dataset (Synthetic) 2020 (link)
+Paper: M. Hanselmann, T. Strauss, K. Dormann and H. Ulmer, "CANet: An Unsupervised Intrusion Detection System for High Dimensional CAN Bus Data," in IEEE Access, vol. 8, pp. 58194-58205, 2020.
+Paper: M. Hanselmann, T. Strauss, K. Dormann and H. Ulmer, "CANet: An Unsupervised Intrusion Detection System for High Dimensional CAN Bus Data," in IEEE Access, vol. 8, pp. 58194-58205, 2020.
+Korea University (KU): HCRL Car-Hacking dataset (with Hyundai YF Sonata) 2018 (link)
+Paper: Eunbi Seo, Hyun Min Song, and Huy Kang Kim. "GIDS: GAN based Intrusion Detection System for In-Vehicle Network." 2018 16th Annual Conference on Privacy, Security and Trust (PST). IEEE, 2018.
+Paper: Eunbi Seo, Hyun Min Song, and Huy Kang Kim. "GIDS: GAN based Intrusion Detection System for In-Vehicle Network." 2018 16th Annual Conference on Privacy, Security and Trust (PST). IEEE, 2018.
+On this page

@@ -1,0 +1,46 @@
+The University of Queensland · Brisbane, Australia
+Dependable andSecure systems Lab
+Cybersecurity and dependability for AI, autonomous systems, networks and critical infrastructure.
+Cyber G.A.M.EOur research focus
+CANVAS-AIOur research domains
+Dan Dongseong KimLab lead · Deputy Director, UQ Cyber
+Discover the lab
+Dan Dongseong Kim
+Dr. Dan DongSeong Kim is Deputy Director of UQ Cyber Security and an Associate Professor (Reader in the commonwealth system) in Cybersecurity at The University of Queensland (UQ), Brisbane, Australia. He leads the Dependable and Secure systems Lab (DSL). in the School of Electrical Engineering and Computer Science (EECS) at UQ. Dr Kim belongs to Cyber Security and Software Engineering (CSS) discipline in School of EECS at UQ. His research interests are in cyber security modeling and analysis for various systems and networks including AI, IoT/CPS, Autonomous Vehicles, Maritime Vessles, Drones, Satellite Systems, Cloud, and software-defined networking (SDN).
+Current Ph.D. students (Total: 10)
+Current Ph.D. students (Total: 10)
+Ph.D./Postdoc Alumni (Total: 18)
+Ph.D./Postdoc Alumni (Total: 18)
+**Lecturer and Senior Lecturer in the Commonwealth system are broadly equivalent to Assistant Professor and Associate Professor in the American system.
+Dr. Jin Hong: Senior Lecturer (continuing academic), The University of Western Australia (UWA), Australia.
+Dr. Jin Hong: Senior Lecturer (continuing academic), The University of Western Australia (UWA), Australia.
+Dr. Mengmeng Ge, Senior Lecturer (continuing academic), Monash University, Australia.
+Dr. Mengmeng Ge, Senior Lecturer (continuing academic), Monash University, Australia.
+Dr. Simon Yusuf Enochson, Lecturer (continuing academic), Whitecliffe College, New Zealand.
+Dr. Simon Yusuf Enochson, Lecturer (continuing academic), Whitecliffe College, New Zealand.
+Dr. Dilli Sharma, Postdoc, York University, Canada.
+Dr. Dilli Sharma, Postdoc, York University, Canada.
+Dr. Hooman Alavizadeh: Lecturer (continuing academic), La Trobe University, Australia.
+Dr. Hooman Alavizadeh: Lecturer (continuing academic), La Trobe University, Australia.
+Dr. Minjune Kim: Senior Research Engineer, CSRIO's Data 61, Australia.
+Dr. Minjune Kim: Senior Research Engineer, CSRIO's Data 61, Australia.
+Dr. Ke He: Lecturer, The University of Canterbury (UC), New Zealand.
+Dr. Ke He: Lecturer, The University of Canterbury (UC), New Zealand.
+Dr. Nhung Nguyen: VIN Group, Vietnam
+Dr. Nhung Nguyen: VIN Group, Vietnam
+Dr. Janet Kang: Assistant Professor, Kongju National Uversity, Korea
+Dr. Janet Kang: Assistant Professor, Kongju National Uversity, Korea
+Dr. Tuan Anh Nguyen: Director of Robot Software and Control, VinDynamics, Vietnam
+Dr. Tuan Anh Nguyen: Director of Robot Software and Control, VinDynamics, Vietnam
+Teaching: Computer Networks I (Semester 1), Information Security (Semester 2)
+Teaching: Computer Networks I (Semester 1), Information Security (Semester 2)
+Conferences: Steering committee chair of PRDC, TPC of DSN, PRDC, etc.
+Conferences: Steering committee chair of PRDC, TPC of DSN, PRDC, etc.
+Journals: editorial board member of IEEE COMST, Elsevier Computers & Security, Elsevier's Computer Networks
+Journals: editorial board member of IEEE COMST, Elsevier Computers & Security, Elsevier's Computer Networks
+Publications:
+Google Scholars (8300+ citations): https://scholar.google.com/citations?user=dIIYVQkAAAAJ&hl=en
+Google Scholars (8300+ citations): https://scholar.google.com/citations?user=dIIYVQkAAAAJ&hl=en
+DBLP (220+ publications): https://dblp.org/pid/k/DongSeongKim.html
+DBLP (220+ publications): https://dblp.org/pid/k/DongSeongKim.html
+Explore

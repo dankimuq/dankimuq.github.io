@@ -1,0 +1,6 @@
+Dependable and Secure systems Lab
+LLM & GenAI security
+Research areas
+LLM (GenAI) security
+A Black-Box Inversion Attack on Small Language Models and Differential Privacy-Based Defense, AsiaCCS workshop 2026. Link: https://dl.acm.org/doi/10.1145/3803628.3807971
+Explore

@@ -1,0 +1,17 @@
+Research · Deepfake detection
+Deepfake detection codes and datasets
+Research areas
+Datasets
+https://www.kaggle.com/datasets/greatgamedota/faceforensics
+https://www.kaggle.com/datasets/greatgamedota/faceforensics
+DeepFake Detection Challenge (DFDC) Dataset:
+paper: https://arxiv.org/abs/2006.07397
+paper: https://arxiv.org/abs/2006.07397
+dataset: https://www.kaggle.com/competitions/deepfake-detection-challenge/data
+dataset: https://www.kaggle.com/competitions/deepfake-detection-challenge/data
+Codes
+Deepfake detection by Jimaing: https://github.com/MagicD123/deepfake_detection.git.
+Deepfake detection by Jimaing: https://github.com/MagicD123/deepfake_detection.git.
+Deepfake detection by Faraz: https://github.com/faraz-g/deepfake_detection
+Deepfake detection by Faraz: https://github.com/faraz-g/deepfake_detection
+On this page

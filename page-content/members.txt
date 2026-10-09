@@ -1,0 +1,406 @@
+Dependable and Secure systems Lab
+DSL-Members
+Current PhD Students
+UQ (& IITD) (as Principal Advisor) (Total: 7)
+UQ (& IITD) (as Principal Advisor) (Total: 7)
+Subrat Swain (Ph.D. student, UQ & IITD, started in Aug. 2021): Adversarial ML for IoT networks.
+Subrat Swain (Ph.D. student, UQ & IITD, started in Aug. 2021): Adversarial ML for IoT networks.
+Tina Moghaddam (Ph.D. student, UQ, Data61 top-up scholarships, started in Jan. 2022): Moving Target Defence against AI-powered Cyber-Attacks
+Tina Moghaddam (Ph.D. student, UQ, Data61 top-up scholarships, started in Jan. 2022): Moving Target Defence against AI-powered Cyber-Attacks
+Pankaj Upadhyay (Ph.D. student, UQ & IITD, started in Jan. 2022): Security Analytics of Internet of Things (IoT).
+Pankaj Upadhyay (Ph.D. student, UQ & IITD, started in Jan. 2022): Security Analytics of Internet of Things (IoT).
+Isha Pali (Ph.D. student, UQ & IITD, started in Aug. 2022): Adversarial ML for Autonomous Vehicles.
+Isha Pali (Ph.D. student, UQ & IITD, started in Aug. 2022): Adversarial ML for Autonomous Vehicles.
+William Guanting Li (Ph.D. student, UQ, Data61 top-up scholarships, started in Jul. 2023): AI for red team automation.
+William Guanting Li (Ph.D. student, UQ, Data61 top-up scholarships, started in Jul. 2023): AI for red team automation.
+Ulysses Lam (Ph.D. student, UQ, started in Jul. 2023): Distributed intrusion detection for vehicles.
+Ulysses Lam (Ph.D. student, UQ, started in Jul. 2023): Distributed intrusion detection for vehicles.
+Aoran Zhang (Ph.D. student, UQ, started in Jan. 2026): Security for AI systems.
+Aoran Zhang (Ph.D. student, UQ, started in Jan. 2026): Security for AI systems.
+UQ (co-supervision as Associate Advisor) (Total: 2)
+UQ (co-supervision as Associate Advisor) (Total: 2)
+Bin Duan (Ph.D. student, UQ, start in Oct 2023): Automated Testing of Deep Learning Systems
+Bin Duan (Ph.D. student, UQ, start in Oct 2023): Automated Testing of Deep Learning Systems
+Yu Zhang (Ph.D. student, UQ, start in Jan 2026): Automated Concurrency Bug Detection with Hybrid Static and Dynamic Analysis
+Yu Zhang (Ph.D. student, UQ, start in Jan 2026): Automated Concurrency Bug Detection with Hybrid Static and Dynamic Analysis
+Other Universities (co-supervision as Associate Advisor) (Total: 1)
+Other Universities (co-supervision as Associate Advisor) (Total: 1)
+Moammadreza Najafi (Reza) (PhD student, La Trobe University, AU): Designing Proactive Network Defense using Deep Q Learning and Intrusion Detection using Game Theory
+Moammadreza Najafi (Reza) (PhD student, La Trobe University, AU): Designing Proactive Network Defense using Deep Q Learning and Intrusion Detection using Game Theory
+Current visitor(s)
+Prof Sejoon Lim, Kookmin University, Visiting Academic, Dec 2025 - Nov 2026.
+Prof Sejoon Lim, Kookmin University, Visiting Academic, Dec 2025 - Nov 2026.
+Current Masters/Honours students at UQ
+From S2, 2026 to S1, 2027 (Total: 7)
+Master of Cyber Security
+S. Yan
+S. Yan
+A. Benny
+A. Benny
+A. Kearney
+A. Kearney
+R. Dissanayake
+R. Dissanayake
+REIT
+Y. Samatani
+Y. Samatani
+S. Horvath
+S. Horvath
+P. Sribu
+P. Sribu
+From S1, 2026 to S2, 2026 (Total: 9)
+Master of Cyber Security
+Y. K. J. Tam, Security analysis of AI agents
+Y. K. J. Tam, Security analysis of AI agents
+A. Earl, Pentesting using AI
+A. Earl, Pentesting using AI
+K. Zhao, IDS for Drone
+K. Zhao, IDS for Drone
+H. Raul, SOC security
+H. Raul, SOC security
+A. Stevens, Deepfake detection
+A. Stevens, Deepfake detection
+L. Roach, Domain adaptation for IDS
+L. Roach, Domain adaptation for IDS
+M. C.-Y. Wang, Security for VIT models
+M. C.-Y. Wang, Security for VIT models
+Master of Data Science
+G. Sun, Domain adaptation for NIDS
+G. Sun, Domain adaptation for NIDS
+Master of Engineering
+J. Xie, Security for AVs.
+J. Xie, Security for AVs.
+Recent Alumni
+Ph.D. (Total: 10) in AUS/NZ
+Nhung Nguyen (Ph.D., UQ, VIN group scholarships, Jan. 2022 - May 2026): Security Risk Modeling and Analysis of Vehicles.
+Nhung Nguyen (Ph.D., UQ, VIN group scholarships, Jan. 2022 - May 2026): Security Risk Modeling and Analysis of Vehicles.
+Ke He (Ph.D., U of Auckland, May 2024; co-supervisor): Adversarial attacks and defense for Network Intrusion Detection. (Currently Lecturer, University of Canterbury, Christchurch, New Zealand).
+Ke He (Ph.D., U of Auckland, May 2024; co-supervisor): Adversarial attacks and defense for Network Intrusion Detection. (Currently Lecturer, University of Canterbury, Christchurch, New Zealand).
+Kok Onn Chee (Ph.D., UQ, Jan. 2024; principal advisor): Security Modelling and Analysis of Internet of Things against Evolving Attacks.
+Kok Onn Chee (Ph.D., UQ, Jan. 2024; principal advisor): Security Modelling and Analysis of Internet of Things against Evolving Attacks.
+Minjune Kim (Ph.D., UQ, Sep. 2023; principal advisor): Security and Performance Analysis of SDN adopting MTD (Researcher/Research Engineer at CSRIO's Data61, Australia).
+Minjune Kim (Ph.D., UQ, Sep. 2023; principal advisor): Security and Performance Analysis of SDN adopting MTD (Researcher/Research Engineer at CSRIO's Data61, Australia).
+Dilli P. Sharma (Ph.D., UC, 2020; senior supervisor -> co-supervisor**): SDN-based Moving Target Defense (currently a Postdoc at the University of Toronto, Canada). **because I left the U of Canterbury and joined UQ.
+Dilli P. Sharma (Ph.D., UC, 2020; senior supervisor -> co-supervisor**): SDN-based Moving Target Defense (currently a Postdoc at the University of Toronto, Canada). **because I left the U of Canterbury and joined UQ.
+Hooman Alavizadeh (Ph.D., Massey University, NZ, 2019, co-supervisor): Effective Security Analysis for Combinations of MTD Techniques on Cloud Computing (a Postdoc, Massey University -> Postdoc at UNSW Canberra->Lecturer at U of Sydney-> Lecturer (tenure/continuing academic), La Trobe University, Australia).
+Hooman Alavizadeh (Ph.D., Massey University, NZ, 2019, co-supervisor): Effective Security Analysis for Combinations of MTD Techniques on Cloud Computing (a Postdoc, Massey University -> Postdoc at UNSW Canberra->Lecturer at U of Sydney-> Lecturer (tenure/continuing academic), La Trobe University, Australia).
+Simon (Enochson) Yusuf (Ph.D., Computer Science, NZ, UC, Dec 2018, senior supervisor): Dynamic Cyber Security Modeling and Analysis (Postdoc at UQ-> Lecturer (continuing academic) at Federal University Kashere (FUK), Gombe, Nigeria -> Lecturer in Cybersecurity at Whitecliffe College, New Zealand)
+Simon (Enochson) Yusuf (Ph.D., Computer Science, NZ, UC, Dec 2018, senior supervisor): Dynamic Cyber Security Modeling and Analysis (Postdoc at UQ-> Lecturer (continuing academic) at Federal University Kashere (FUK), Gombe, Nigeria -> Lecturer in Cybersecurity at Whitecliffe College, New Zealand)
+Kieran Morris (Ph.D. ECE, UC; co-supervisor): Reliability and Resiliency Analysis of Smart Grid (first employment: Tait communications, NZ-> Noted Ltd. -> Transpower New Zealand).
+Kieran Morris (Ph.D. ECE, UC; co-supervisor): Reliability and Resiliency Analysis of Smart Grid (first employment: Tait communications, NZ-> Noted Ltd. -> Transpower New Zealand).
+Mengmeng Ge (Ph.D., Computer Science, UC 2018; senior supervisor): Graphical security modelling and assessment for the internet of things; Currently, Senior Lecturer in Cybersecurity at Monash University.
+Mengmeng Ge (Ph.D., Computer Science, UC 2018; senior supervisor): Graphical security modelling and assessment for the internet of things; Currently, Senior Lecturer in Cybersecurity at Monash University.
+Jin B. Hong (Ph.D., Computer Science, UC, April, 2015, senior supervisor): Scalable and Adaptable Security Modeling and Analysis. First employment: Postdoc, UC, NZ -> Lecturer/Senior Lecturer in Cybersecurity at University of Western Australia.
+Jin B. Hong (Ph.D., Computer Science, UC, April, 2015, senior supervisor): Scalable and Adaptable Security Modeling and Analysis. First employment: Postdoc, UC, NZ -> Lecturer/Senior Lecturer in Cybersecurity at University of Western Australia.
+Others (at KAU/other) (co-supervision) (total: 6)
+Seongmo An (Ph.D., KAU, Feb 2024; co-supervisor, South Korea): CloudSafe: Automated Security Analysis and Enforcement for Cloud Computing. A CEO of a company.
+Seongmo An (Ph.D., KAU, Feb 2024; co-supervisor, South Korea): CloudSafe: Automated Security Analysis and Enforcement for Cloud Computing. A CEO of a company.
+Taehoon Eom (Ph.D., 2020, KAU, Korea, co-supervisor): Security for Software Defined Networking (Researcher at KAU-> Research Professor at KAU -> Team leader, AI Data center at AI Industry Cluster Agency, South Korea).
+Taehoon Eom (Ph.D., 2020, KAU, Korea, co-supervisor): Security for Software Defined Networking (Researcher at KAU-> Research Professor at KAU -> Team leader, AI Data center at AI Industry Cluster Agency, South Korea).
+Iman Elmir (Ph.D., Hassan 1st Univ. Morocco, 2017; co-supervisor): Security Modeling and Analysis of Intrusion Tolerant Data Centers
+Iman Elmir (Ph.D., Hassan 1st Univ. Morocco, 2017; co-supervisor): Security Modeling and Analysis of Intrusion Tolerant Data Centers
+Nguyen Tuan Anh (Ph.D., August 2015, KAU; co-supervisor): Availability Modeling and Analysis of Data Center Systems using Stochastic Reward Nets. Postdoc, Kunkuk University, South Korea -> an Academic Research Professor, Kunkuk University, South Korea -> Viettel Group, Vietnam.
+Nguyen Tuan Anh (Ph.D., August 2015, KAU; co-supervisor): Availability Modeling and Analysis of Data Center Systems using Stochastic Reward Nets. Postdoc, Kunkuk University, South Korea -> an Academic Research Professor, Kunkuk University, South Korea -> Viettel Group, Vietnam.
+SeulKi Lee (Ph.D., 2014, KAU; co-supervision/co-work): Reliability and Availability Analysis for UAS by Using Hierarchical Fault Trees and Continuous Time Markov Chains. First employment: Researcher, Korea Institute of Geoscience And Mineral Resources, Korea
+SeulKi Lee (Ph.D., 2014, KAU; co-supervision/co-work): Reliability and Availability Analysis for UAS by Using Hierarchical Fault Trees and Continuous Time Markov Chains. First employment: Researcher, Korea Institute of Geoscience And Mineral Resources, Korea
+Sang Min Lee (Ph.D., 2012, KAU; co-supervisor/co-work): Modeling and analysis of lightweight Intrusion Detection Systems, First employment: SK Telecom Co., Ltd. -> Current: Telecommunications Technology Association of Korea (TTA)
+Sang Min Lee (Ph.D., 2012, KAU; co-supervisor/co-work): Modeling and analysis of lightweight Intrusion Detection Systems, First employment: SK Telecom Co., Ltd. -> Current: Telecommunications Technology Association of Korea (TTA)
+Postdocs (Total: 3)
+Dr. Janet Hyunjae Kang, Postdoc, Korea University, Sep 2024 - Aug 2026 -> Assistant Professor at Kongju National University, Korea.
+Dr. Janet Hyunjae Kang, Postdoc, Korea University, Sep 2024 - Aug 2026 -> Assistant Professor at Kongju National University, Korea.
+Simon (Enochson) Yusuf: Automated Attack and Defence Modeling, 2019-2020, UQ; currently a Lecturer at the Federal University Kashere Gombe State -> Lecturer at Whitecliffe College, New Zealand.
+Simon (Enochson) Yusuf: Automated Attack and Defence Modeling, 2019-2020, UQ; currently a Lecturer at the Federal University Kashere Gombe State -> Lecturer at Whitecliffe College, New Zealand.
+Jin B. Hong: Cloud computing security, 2015-2017, UC; currently a Senior Lecturer (continuing academic) at The University of Western Australia.
+Jin B. Hong: Cloud computing security, 2015-2017, UC; currently a Senior Lecturer (continuing academic) at The University of Western Australia.
+Past Visitors at UQ (Total: 25)
+Mr Cheoleon Kim, Kookmin University, Visiting master student, Aug 2026.
+Mr Cheoleon Kim, Kookmin University, Visiting master student, Aug 2026.
+Dr Jinsu Kim, Jeju National University, Postdoc, Dec 2025 - July 2026.
+Dr Jinsu Kim, Jeju National University, Postdoc, Dec 2025 - July 2026.
+Prof Jeeyoung Kim, Visiting academic, Kyungpook National University, 10 Jan 2026 - 30 Aug 2026
+Prof Jeeyoung Kim, Visiting academic, Kyungpook National University, 10 Jan 2026 - 30 Aug 2026
+Dr Seungki Shi, KAERI, Visiting Researcher, July 2025 - June 2026.
+Dr Seungki Shi, KAERI, Visiting Researcher, July 2025 - June 2026.
+Mr Hwejae Lee, Korea University, Visiting PhD student, Dec 2025 - May 2026.
+Mr Hwejae Lee, Korea University, Visiting PhD student, Dec 2025 - May 2026.
+Ms Borim Na, Yonsei University, Visiting MS student, Dec 2025 - May 2026.
+Ms Borim Na, Yonsei University, Visiting MS student, Dec 2025 - May 2026.
+Mr Sangmin Park, Korea University, Visiting PhD student, Jan 2026 - Jun 2026.
+Mr Sangmin Park, Korea University, Visiting PhD student, Jan 2026 - Jun 2026.
+Dr Seonghoon Jeong, Sookmyung Women’s University (SMWU), July 2025.
+Dr Seonghoon Jeong, Sookmyung Women’s University (SMWU), July 2025.
+Mr Hyeonseong Kim, Kookmin University, July 2025.
+Mr Hyeonseong Kim, Kookmin University, July 2025.
+Prof. Cheolsoo Park, Kwangwoon University, Sep 2024 - Feb 2025.
+Prof. Cheolsoo Park, Kwangwoon University, Sep 2024 - Feb 2025.
+Prof. Armin Zimmerman (Technische Universität Ilmenau), Sep-Dec 2024.
+Prof. Armin Zimmerman (Technische Universität Ilmenau), Sep-Dec 2024.
+Prof. S. H. Seo (Tech University of Korea, South Korea), Jan 2023 - Dec 2023.
+Prof. S. H. Seo (Tech University of Korea, South Korea), Jan 2023 - Dec 2023.
+Prof. JB Yun (Sejong University, South Korea), Sep 2022 - August 2023.
+Prof. JB Yun (Sejong University, South Korea), Sep 2022 - August 2023.
+Dr. Woocheol Kim (currently with ETRI, South Korea), Visiting PhD student from GIST: Federated Learning security/Vehicle security, April 2022-Oct 2022.
+Dr. Woocheol Kim (currently with ETRI, South Korea), Visiting PhD student from GIST: Federated Learning security/Vehicle security, April 2022-Oct 2022.
+A/Prof Hongtae Kim (Korea Air Force Academy, Korea), Jan 2020 - Dec 2020 at UQ
+A/Prof Hongtae Kim (Korea Air Force Academy, Korea), Jan 2020 - Dec 2020 at UQ
+Prof Jang-Se Lee (KMOU, Korea), Jan 2020 - Jan 2021 at UQ
+Prof Jang-Se Lee (KMOU, Korea), Jan 2020 - Jan 2021 at UQ
+Mr Sungwoo An (PhD student, SNU, Korea), Aug 2019 at UQ
+Mr Sungwoo An (PhD student, SNU, Korea), Aug 2019 at UQ
+Mr Hyunjun Kim (ME student, SNU, Korea), Aug 2019 at UQ
+Mr Hyunjun Kim (ME student, SNU, Korea), Aug 2019 at UQ
+Dr. Tongil Jang (KAERI, Korea), Apr 2019 - Mar 2020 at UQ
+Dr. Tongil Jang (KAERI, Korea), Apr 2019 - Mar 2020 at UQ
+Prof. Jiwon Yoon (Korea University), 2018. at UC.
+Prof. Jiwon Yoon (Korea University), 2018. at UC.
+Dr. Júlio Mendonça (Ph.D., 2021, FUP, Brazil)-> Research Associate at University of Luxembourg -> Assistant Professor at Tilburg University, Netherlands.
+Dr. Júlio Mendonça (Ph.D., 2021, FUP, Brazil)-> Research Associate at University of Luxembourg -> Assistant Professor at Tilburg University, Netherlands.
+Dr. YoungJun Lee (KAERI, Korea) at UC., 2017
+Dr. YoungJun Lee (KAERI, Korea) at UC., 2017
+Prof. Sungdeok (Steve) Cha (Korea University, Korea) as Erskine fellow at UC, 2016 -> currently with VinUniversity in Vietnam.
+Prof. Sungdeok (Steve) Cha (Korea University, Korea) as Erskine fellow at UC, 2016 -> currently with VinUniversity in Vietnam.
+Prof. Huy Kang Kim (Korea University, Korea) at UC, 2016
+Prof. Huy Kang Kim (Korea University, Korea) at UC, 2016
+Prof Dijiang Huang (ASU, USA) at UC, 2013.
+Prof Dijiang Huang (ASU, USA) at UC, 2013.
+Past Master Students at UQ (Total: 58)
+C-W Yang (Master of Cyber Security), IDS for Drone, S2, 2025 to S1, 2026
+C-W Yang (Master of Cyber Security), IDS for Drone, S2, 2025 to S1, 2026
+A. Ghoor (Master of Cyber Security), Robust IDS, S2, 2025 to S1, 2026
+A. Ghoor (Master of Cyber Security), Robust IDS, S2, 2025 to S1, 2026
+H. Jin (Master of Cyber Security), Auonomous Vehicle Security testbed, S2, 2025 to S1, 2026
+H. Jin (Master of Cyber Security), Auonomous Vehicle Security testbed, S2, 2025 to S1, 2026
+S. X. Wang (Master of Data Science), LLM for Improving SoC operations, S2, 2025 to S1, 2026
+S. X. Wang (Master of Data Science), LLM for Improving SoC operations, S2, 2025 to S1, 2026
+M. Wong (M Cyber Security), Domain adaptation for NIDS, From S2, 2026 to S2, 2026
+M. Wong (M Cyber Security), Domain adaptation for NIDS, From S2, 2026 to S2, 2026
+A. B. Purnomo (M Cyber Security), Security Lab development, S1, 2025 - S2, 2025
+A. B. Purnomo (M Cyber Security), Security Lab development, S1, 2025 - S2, 2025
+C. Hamilton (M Cyber Security), XAI for IDS, S1, 2025 - S2, 2025
+C. Hamilton (M Cyber Security), XAI for IDS, S1, 2025 - S2, 2025
+A. Graves (M Cyber Security), Security for Satelite system, S1, 2025 - S2, 2025
+A. Graves (M Cyber Security), Security for Satelite system, S1, 2025 - S2, 2025
+JC. Wang (M Cyber Security), Deepfake audio, S1, 2025 - S2, 2025
+JC. Wang (M Cyber Security), Deepfake audio, S1, 2025 - S2, 2025
+A. Zhang (M Cyber Security), Deepfake image, S1, 2025 - S2, 2025
+A. Zhang (M Cyber Security), Deepfake image, S1, 2025 - S2, 2025
+R. Dufty (M Cyber Security), XAI for NIDS, S1, 2025 - S2, 2025
+R. Dufty (M Cyber Security), XAI for NIDS, S1, 2025 - S2, 2025
+X. Wang (M Cyber Security), Privacy Attacks for LLM, S1, 2025 - S2, 2025.
+X. Wang (M Cyber Security), Privacy Attacks for LLM, S1, 2025 - S2, 2025.
+C. Liu (M Computer Science), AI based Intrusion Detection for Internet of Things/CPS, S2, 2024 - S1, 2025
+C. Liu (M Computer Science), AI based Intrusion Detection for Internet of Things/CPS, S2, 2024 - S1, 2025
+O. M. Delgado (M Computer Science), AI based Intrusion Detection for Internet of Things/CPS, S2, 2024 - S1, 2025
+O. M. Delgado (M Computer Science), AI based Intrusion Detection for Internet of Things/CPS, S2, 2024 - S1, 2025
+M. D. Reilly (M Information Technology), Red team automation: Automated Pentesting, S2, 2024 - S1, 2025
+M. D. Reilly (M Information Technology), Red team automation: Automated Pentesting, S2, 2024 - S1, 2025
+D. Wang (M Software Engineering), Adversarial Attacks and Effective Defences for Autonomous Vehicles, S2, 2024 - S1, 2025
+D. Wang (M Software Engineering), Adversarial Attacks and Effective Defences for Autonomous Vehicles, S2, 2024 - S1, 2025
+L. J. Revell (M CyberSec), AI based Intrusion Detection for Internet of Things/CPS, S2, 2024 - S1, 2025
+L. J. Revell (M CyberSec), AI based Intrusion Detection for Internet of Things/CPS, S2, 2024 - S1, 2025
+B. Boskell (M CyberSec), AI based Intrusion Detection for Internet of Things/CPS, S2, 2024 - S1, 2025
+B. Boskell (M CyberSec), AI based Intrusion Detection for Internet of Things/CPS, S2, 2024 - S1, 2025
+T. You (M CyberSec), AI based Intrusion Detection for Internet of Things/CPS, S2, 2024 - S1, 2025
+T. You (M CyberSec), AI based Intrusion Detection for Internet of Things/CPS, S2, 2024 - S1, 2025
+Yufeng Lin (M Data Science), Adversarial Attacks and Effective Defences for Autonomous Vehicles, S2, 2024 - S1, 2025
+Yufeng Lin (M Data Science), Adversarial Attacks and Effective Defences for Autonomous Vehicles, S2, 2024 - S1, 2025
+Zhaochen Wang (M Data Science), Adversarial Attacks and Effective Defences for Autonomous Vehicles, S2, 2024 - S1, 2025
+Zhaochen Wang (M Data Science), Adversarial Attacks and Effective Defences for Autonomous Vehicles, S2, 2024 - S1, 2025
+Jingming Dai (M Computer Science), Deep fakes Detection, from S1, 2024 to S2, 2024.
+Jingming Dai (M Computer Science), Deep fakes Detection, from S1, 2024 to S2, 2024.
+Taiwei Bo (M Computer Science), GUI for GSM, from S1, 2024 to S2, 2024.
+Taiwei Bo (M Computer Science), GUI for GSM, from S1, 2024 to S2, 2024.
+Ruoqi Guo (M Computer Science), GUI for GSM, from S1, 2024 to S2, 2024.
+Ruoqi Guo (M Computer Science), GUI for GSM, from S1, 2024 to S2, 2024.
+Boxuan Li (M Computer Science), Applications of QML, from S1, 2024 to S2, 2024.
+Boxuan Li (M Computer Science), Applications of QML, from S1, 2024 to S2, 2024.
+Tianluo Xu (M Computer Science, 1 semester only): Quantum ML application, S1, 2024.
+Tianluo Xu (M Computer Science, 1 semester only): Quantum ML application, S1, 2024.
+S. Kaja (M Data Science): IDS for IoT/CPS, from S1 2024 to S2 2024.
+S. Kaja (M Data Science): IDS for IoT/CPS, from S1 2024 to S2 2024.
+Joshua C.-H. Wang (M Data Science): IDS for IoT/CPS, from S1 2024 to S2 2024.
+Joshua C.-H. Wang (M Data Science): IDS for IoT/CPS, from S1 2024 to S2 2024.
+D. M.Z. Ku (M Data Science): IDS for IoT/CPS, from S1 2024 to S2 2024.
+D. M.Z. Ku (M Data Science): IDS for IoT/CPS, from S1 2024 to S2 2024.
+R. Guo (M Computer Science): Web GUI for GSM, from S1 2024 to S2 2024.
+R. Guo (M Computer Science): Web GUI for GSM, from S1 2024 to S2 2024.
+Walt Lin (M.Phil, UQ): IoT security gateway, completed in 2024.
+Walt Lin (M.Phil, UQ): IoT security gateway, completed in 2024.
+Faraz Ghasemzadeh, M Data Science: Deep Fake Detection, from S1, 2023 to S2, 2023.
+Faraz Ghasemzadeh, M Data Science: Deep Fake Detection, from S1, 2023 to S2, 2023.
+Chuan Jacob Tian, M Data Science: Deep Fake Detection, from S1, 2023 to S2, 2023.
+Chuan Jacob Tian, M Data Science: Deep Fake Detection, from S1, 2023 to S2, 2023.
+Minh Tuan Tran, M Cyber capstone: cyberattacks on Byzantine-Robust Federated Learning (BRFL), from S2 2022 to S1, 2023.
+Minh Tuan Tran, M Cyber capstone: cyberattacks on Byzantine-Robust Federated Learning (BRFL), from S2 2022 to S1, 2023.
+Tao Cheng, M Computer Science (4 unit, one semester): Cyber attacks to distributed AI systems, S2 only, 2022.
+Tao Cheng, M Computer Science (4 unit, one semester): Cyber attacks to distributed AI systems, S2 only, 2022.
+Zhe Sun (co-supervision), Master: Fuzzing for DL systems, from S1 2022 to S2 2022.
+Zhe Sun (co-supervision), Master: Fuzzing for DL systems, from S1 2022 to S2 2022.
+Xiaojie Issac Ying (co-supervision), Master, Fuzzing for DL systems, from S1 2022 to S2 2022.
+Xiaojie Issac Ying (co-supervision), Master, Fuzzing for DL systems, from S1 2022 to S2 2022.
+Yifan Lu, Master: ATT&CK graph, S1, 2022 (one semester).
+Yifan Lu, Master: ATT&CK graph, S1, 2022 (one semester).
+Chenxin Hu, Master: Adversarial attacks to AI systems, from S2, 2021 to S1, 2022.
+Chenxin Hu, Master: Adversarial attacks to AI systems, from S2, 2021 to S1, 2022.
+Guanting William Li, Master: Automated Pen Testing, from S2, 2021 to S1, 2022.
+Guanting William Li, Master: Automated Pen Testing, from S2, 2021 to S1, 2022.
+Yuhui Ian He, M Cyber Capstone: APT attacks automation, from S2, 2021 to S1, 2022.
+Yuhui Ian He, M Cyber Capstone: APT attacks automation, from S2, 2021 to S1, 2022.
+Archit Sharma, M Cyber Capstone: Vulnerability scanning, from S2, 2021 to S1, 2022.
+Archit Sharma, M Cyber Capstone: Vulnerability scanning, from S2, 2021 to S1, 2022.
+Z. Zhu, Master by Research, from S1, 2021 to S2, 2021.
+Z. Zhu, Master by Research, from S1, 2021 to S2, 2021.
+L. Xia, Master by Research, from S1, 2021 to S2, 2021.
+L. Xia, Master by Research, from S1, 2021 to S2, 2021.
+R. Fardoulys, M Cyber Capstone, from S1, 2021 to S2, 2021.
+R. Fardoulys, M Cyber Capstone, from S1, 2021 to S2, 2021.
+J. Yu, M Data Science, from S1, 2021 to S2, 2021.
+J. Yu, M Data Science, from S1, 2021 to S2, 2021.
+Ulysses Lam (M Data Science), from S1, 2021 to S2, 2021.
+Ulysses Lam (M Data Science), from S1, 2021 to S2, 2021.
+Yang LIU, Cyber attacks against AI-based Intrusion Detection Systems, from S2, 2020 to S1, 2021.
+Yang LIU, Cyber attacks against AI-based Intrusion Detection Systems, from S2, 2020 to S1, 2021.
+Na DONG, Improving User Interfaces for Graphical Security Modeling and Analysis, from S2, 2020 to S1, 2021.
+Na DONG, Improving User Interfaces for Graphical Security Modeling and Analysis, from S2, 2020 to S1, 2021.
+Xinyi WANG, Cyber attacks against AI based Intrusion Detection Systems, from S2, 2020 to S1, 2021
+Xinyi WANG, Cyber attacks against AI based Intrusion Detection Systems, from S2, 2020 to S1, 2021
+Minghao XUE, Benchmarking existing database management systems for time-series data, from S2, 2020 to S1, 2021
+Minghao XUE, Benchmarking existing database management systems for time-series data, from S2, 2020 to S1, 2021
+Shichun YAN, Attacks to Privacy Preserving Machine Learning techniques, from S2, 2020 to S1, 2021
+Shichun YAN, Attacks to Privacy Preserving Machine Learning techniques, from S2, 2020 to S1, 2021
+Yunzhong LI, Activity classification using recurrent neural networks, from S2, 2020 to S1, 2021
+Yunzhong LI, Activity classification using recurrent neural networks, from S2, 2020 to S1, 2021
+XingBo Feng, SDN based MTD, from S1, 2020 to S2, 2020.
+XingBo Feng, SDN based MTD, from S1, 2020 to S2, 2020.
+Nida Amalia, Adversarial attacks comparisons, from S1, 2020 to S2, 2020.
+Nida Amalia, Adversarial attacks comparisons, from S1, 2020 to S2, 2020.
+Yawei Yang, Web attacks automation, from S1, 2020 to S2, 2020.
+Yawei Yang, Web attacks automation, from S1, 2020 to S2, 2020.
+Zhiheng Liang, IoT security, from S1, 2020 to S2, 2020.
+Zhiheng Liang, IoT security, from S1, 2020 to S2, 2020.
+Zhibin Huang, Attacker and Defender modeling, from S2 2019 to S1, 2020.
+Zhibin Huang, Attacker and Defender modeling, from S2 2019 to S1, 2020.
+Past Master students at UC/Other universities (Total: 11)
+Bilal Isfaq (MSc student, UC, 2020): Design, Implementation and Evaluation of Network Level Defenses for IoT
+Bilal Isfaq (MSc student, UC, 2020): Design, Implementation and Evaluation of Network Level Defenses for IoT
+X. "Harry" Zhang (MSc student in CSSE, UC, 2020): Deep Learning (GAN) for Intrusion Detection
+X. "Harry" Zhang (MSc student in CSSE, UC, 2020): Deep Learning (GAN) for Intrusion Detection
+W. Liu (Master, 2019, UQ): Integrated Proactive Defense for Software Defined Internet-of-Things under Multi-Target Attacks. First employment: Merchant Warrior.
+W. Liu (Master, 2019, UQ): Integrated Proactive Defense for Software Defined Internet-of-Things under Multi-Target Attacks. First employment: Merchant Warrior.
+Cole Dishington (MSc student in CSSE, 2019, UC): Security and Performance Assessment of IP Multiplexing Moving Target Defence in Software Defined Networks. First employment: Software Engineer at Allied Telesis
+Cole Dishington (MSc student in CSSE, 2019, UC): Security and Performance Assessment of IP Multiplexing Moving Target Defence in Software Defined Networks. First employment: Software Engineer at Allied Telesis
+Paul Kim (MSc in MADS in Math department, 2018, UC): Blockchain and security, First employment: Telstra Australia
+Paul Kim (MSc in MADS in Math department, 2018, UC): Blockchain and security, First employment: Telstra Australia
+Shamik Santra (MSc, 2017, UC): Semi-automated generation of networked vulnerability-attack countermeasure trees for security analysis
+Shamik Santra (MSc, 2017, UC): Semi-automated generation of networked vulnerability-attack countermeasure trees for security analysis
+HeeSoo Kim (M.E., 2016, KAU): Android Malware Detection using Machine Learning, First employment: Penta Security Systems Inc., Korea
+HeeSoo Kim (M.E., 2016, KAU): Android Malware Detection using Machine Learning, First employment: Penta Security Systems Inc., Korea
+Suhan Kim (M.E., 2016, KAU): Development of New Security Metrics, Current: PhD student at KAU.
+Suhan Kim (M.E., 2016, KAU): Development of New Security Metrics, Current: PhD student at KAU.
+FangCheng Jia (M.Sc. in CSSE, 2015, UC): A Security Assessment Framework for Software Systems
+FangCheng Jia (M.Sc. in CSSE, 2015, UC): A Security Assessment Framework for Software Systems
+Hyeongjun Jin (M.E., 2015, KAU): Security Analysis of Network Separation Mechanisms
+Hyeongjun Jin (M.E., 2015, KAU): Security Analysis of Network Separation Mechanisms
+Miseon Wi (M.E., 2014, KAU): Security Evaluation of Smart Grid using Attack Countermeasure Trees. Current: Hyundai Mobis security team.
+Miseon Wi (M.E., 2014, KAU): Security Evaluation of Smart Grid using Attack Countermeasure Trees. Current: Hyundai Mobis security team.
+There are more students but I have not listed them here.
+There are more students but I have not listed them here.
+Past Honours students at UQ (Total: 38)
+M. Coombs (B Eng (hons)), AI based Intrusion Detection for Drones/UAV, S2, 2025 to S1, 2026
+M. Coombs (B Eng (hons)), AI based Intrusion Detection for Drones/UAV, S2, 2025 to S1, 2026
+N. Stevens (B Eng (hons)), Security Simulator for UAVs, S2, 2025 to S1, 2026
+N. Stevens (B Eng (hons)), Security Simulator for UAVs, S2, 2025 to S1, 2026
+X. K. Yeap (Comput Honors): Privacy for LLM, S1, 2025 to S2, 2025.
+X. K. Yeap (Comput Honors): Privacy for LLM, S1, 2025 to S2, 2025.
+K. Lake (B. Eng. honours, One semester only): XR/VR security and privacy, S1, 2024
+K. Lake (B. Eng. honours, One semester only): XR/VR security and privacy, S1, 2024
+H. Nguyeng (BE honours): AV security testbed, from S2, 2023 to S1, 2024
+H. Nguyeng (BE honours): AV security testbed, from S2, 2023 to S1, 2024
+S. Jain (BE honours): AV security testbed, from S2, 2023 to S1, 2024
+S. Jain (BE honours): AV security testbed, from S2, 2023 to S1, 2024
+Matthew Ian WILKEY, Honours: ML for OS identification, from S1, 2023 to S2, 2023
+Matthew Ian WILKEY, Honours: ML for OS identification, from S1, 2023 to S2, 2023
+Cheng GUO, Honours: HARM GUI, from S1, 2023 to S2, 2023
+Cheng GUO, Honours: HARM GUI, from S1, 2023 to S2, 2023
+Nok Sang CHAN, Honours: Deep fake detection, from S1, 2023 to S2, 2023
+Nok Sang CHAN, Honours: Deep fake detection, from S1, 2023 to S2, 2023
+Liam Hall, Honours: Red Team Automation, from S2, 2022 to S1, 2023
+Liam Hall, Honours: Red Team Automation, from S2, 2022 to S1, 2023
+Jordan Foss, Honours: Differential Privacy for AI, from S2, 2022 to S1, 2023
+Jordan Foss, Honours: Differential Privacy for AI, from S2, 2022 to S1, 2023
+Thomas Petersen, Honours: AI based IDS for In-Vehicle Networks, from S1, 2022 to S2, 2022
+Thomas Petersen, Honours: AI based IDS for In-Vehicle Networks, from S1, 2022 to S2, 2022
+Michael Cowan, Honours: Red Team Automation, from S1, 2022 to S2, 2022
+Michael Cowan, Honours: Red Team Automation, from S1, 2022 to S2, 2022
+Komei Jo, Honours: APT attacks automation to ICS systems, completed in S1, 2022
+Komei Jo, Honours: APT attacks automation to ICS systems, completed in S1, 2022
+Fin Cooney, Honours: Defence against Ransomware, completed in S1, 2022
+Fin Cooney, Honours: Defence against Ransomware, completed in S1, 2022
+Zhien Zhang, CS honours: Adversarial attacks to AI systems, completed in S1, 2022
+Zhien Zhang, CS honours: Adversarial attacks to AI systems, completed in S1, 2022
+T. Moghaddam, Honours, completed in S2, 2021.
+T. Moghaddam, Honours, completed in S2, 2021.
+W. Chancellor, Honours, completed in S2, 2021.
+W. Chancellor, Honours, completed in S2, 2021.
+A. Queenslandari, Honours, completed in S2, 2021.
+A. Queenslandari, Honours, completed in S2, 2021.
+M. Jones, Honours, completed in S2, 2021.
+M. Jones, Honours, completed in S2, 2021.
+Y. T. Wang, Honours, completed in S2, 2021.
+Y. T. Wang, Honours, completed in S2, 2021.
+Aviral Kailash JAIN, Honours, Activity classification using recurrent neural networks, from S2, 2020 to S1, 2021.
+Aviral Kailash JAIN, Honours, Activity classification using recurrent neural networks, from S2, 2020 to S1, 2021.
+Xiaofan ZHOU, Honours, Automated Intrusion Response using Artificial Intelligence, from S2, 2020 to S1, 2021.
+Xiaofan ZHOU, Honours, Automated Intrusion Response using Artificial Intelligence, from S2, 2020 to S1, 2021.
+Sheridan Kate TAPSALL, Honours, Detecting Crown-of-Thorns Starfish using Convolutional Neural Networks and ML, from S2, 2020 to S1, 2021.
+Sheridan Kate TAPSALL, Honours, Detecting Crown-of-Thorns Starfish using Convolutional Neural Networks and ML, from S2, 2020 to S1, 2021.
+Joshua YOU, Honours, Improving User Interfaces for Graphical Security Modeling and Analysis, from S2, 2020 to S1, 2021.
+Joshua YOU, Honours, Improving User Interfaces for Graphical Security Modeling and Analysis, from S2, 2020 to S1, 2021.
+Bhavita BHOOMA, Honours, SPNP improvement, from S2, 2020 to S1, 2021.
+Bhavita BHOOMA, Honours, SPNP improvement, from S2, 2020 to S1, 2021.
+Nikhil Jain KAMAL, Honours, Integrating Stochastic Petri Net model into Discrete Event System Specification model, from S2, 2020 to S1, 2021.
+Nikhil Jain KAMAL, Honours, Integrating Stochastic Petri Net model into Discrete Event System Specification model, from S2, 2020 to S1, 2021.
+Kurt James STANWIX, Honours, Automated Intrusion Response using Artificial Intelligence, from S2 2020 to S1 2021.
+Kurt James STANWIX, Honours, Automated Intrusion Response using Artificial Intelligence, from S2 2020 to S1 2021.
+Raymond Mogg (Honours): Evasion attacks against NIDS, from S2, 2019 to S1, 2020.
+Raymond Mogg (Honours): Evasion attacks against NIDS, from S2, 2019 to S1, 2020.
+Khoa Dang Nguyen (Honours): User Interfaces Development for HARM, from S2, 2019 to S1, 2020.
+Khoa Dang Nguyen (Honours): User Interfaces Development for HARM, from S2, 2019 to S1, 2020.
+Naehyung Kim(Honours): User Interfaces Development for HARM, from S2, 2019 to S1, 2020.
+Naehyung Kim(Honours): User Interfaces Development for HARM, from S2, 2019 to S1, 2020.
+A. Leung (honours): Phase 3 of Cloudsafe, S1, 2020 (1 semester).
+A. Leung (honours): Phase 3 of Cloudsafe, S1, 2020 (1 semester).
+T. Baxter (honours): Network implementation of adversarial attacks, from S1, 2020 to S2, 2022
+T. Baxter (honours): Network implementation of adversarial attacks, from S1, 2020 to S2, 2022
+W. Dow (honours): IoT security, from S2, 2019 to S1, 2022
+W. Dow (honours): IoT security, from S2, 2019 to S1, 2022
+S. Lee (honours): Adversarial attacks to cluster-based IDS, from S1, 2019 to S2, 2020.
+S. Lee (honours): Adversarial attacks to cluster-based IDS, from S1, 2019 to S2, 2020.
+Kesang Tshering Dorjee (Honours): Security Visualization, from S1, 2019 to S2, 2019.
+Kesang Tshering Dorjee (Honours): Security Visualization, from S1, 2019 to S2, 2019.
+Thanh Tung Vo (Honours): Performability for Moving Target Defenses, from S1, 2019 to S2, 2019.
+Thanh Tung Vo (Honours): Performability for Moving Target Defenses, from S1, 2019 to S2, 2019.
+Xiatong Mo (Honours): Distributed Vulnerability scanners, from S1, 2019 to S2, 2019.
+Xiatong Mo (Honours): Distributed Vulnerability scanners, from S1, 2019 to S2, 2019.
+Past Honours and research interns at UC/UQ (Total: 9)
+. Lake (undergraduate intern): XR/VR security and privacy, 2024
+. Lake (undergraduate intern): XR/VR security and privacy, 2024
+B. Quek (undergraduate intern in Computer Science, 2022-2023, UQ), AI -based Intrusion Detection and Response for autonomous vehicles.
+B. Quek (undergraduate intern in Computer Science, 2022-2023, UQ), AI -based Intrusion Detection and Response for autonomous vehicles.
+Ke He (CS Honours student in CSSE, 2018, UC): Deep Learning for Malware Detection
+Ke He (CS Honours student in CSSE, 2018, UC): Deep Learning for Malware Detection
+Amelia Samandari (CS honours student, 2017, UC): IoT security focusing on Mobility
+Amelia Samandari (CS honours student, 2017, UC): IoT security focusing on Mobility
+James Spicer (CS honours student, 2017, UC): Distributed Vulnerability Scanning for Safelite
+James Spicer (CS honours student, 2017, UC): Distributed Vulnerability Scanning for Safelite
+Nic Robinson-O'Brien (SE honours student, 2017, UC): SPNP improvement
+Nic Robinson-O'Brien (SE honours student, 2017, UC): SPNP improvement
+Monty Anderson (Software Engineering Honours student in CSSE, 2017, UC): Visualisation of Hierarchical Attack Representation Models
+Monty Anderson (Software Engineering Honours student in CSSE, 2017, UC): Visualisation of Hierarchical Attack Representation Models
+Matthew Ruffell (Computer Science Honours student in CSSE, 2016, UC): Applying Bytecode Level Automatic Exploit Generation To Embedded Systems
+Matthew Ruffell (Computer Science Honours student in CSSE, 2016, UC): Applying Bytecode Level Automatic Exploit Generation To Embedded Systems
+Sophie He (undergraduate intern in CSSE, 2017, UC): Security tool development
+Sophie He (undergraduate intern in CSSE, 2017, UC): Security tool development
+Paul Kim (undergraduate intern in CSSE, 2018, UC)
+Paul Kim (undergraduate intern in CSSE, 2018, UC)
+On this page

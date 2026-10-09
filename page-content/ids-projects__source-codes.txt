@@ -1,0 +1,26 @@
+Research · Intrusion detection
+Source codes
+Research areas
+IoT Intrusion dection
+Kitsune IDS (using Kitsune Network Attack dataset) (link)
+paper: Yisroel Mirsky, Tomer Doitshman, Yuval Elovici, and Asaf Shabtai, "Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection", Network and Distributed System Security Symposium 2018 (NDSS'18).
+paper: Yisroel Mirsky, Tomer Doitshman, Yuval Elovici, and Asaf Shabtai, "Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection", Network and Distributed System Security Symposium 2018 (NDSS'18).
+Ke He:
+Updated kitsune feature extractor used for Kitsune IDS (with UQ IoT IDS dataset): link
+Updated kitsune feature extractor used for Kitsune IDS (with UQ IoT IDS dataset): link
+LM attack: https://github.com/Kihy/liuer-mihou
+LM attack: https://github.com/Kihy/liuer-mihou
+Ulysses Lam: IoT Intrusion Detection models (CNN, RNN, RF): link to be added.
+research report: to be added.
+research report: to be added.
+Joshua You:
+research paper/report: to be added.
+research paper/report: to be added.
+Autonomous Vehicle(s)
+CANival: time interval- and signal-based IDS (with X-CANIDS and SynCAN datasets) (link)
+Paper: Kang, H., Vo, T., Kim, H. K., & Hong, J. B. (2024). CANival: A multimodal approach to intrusion detection on the vehicle CAN bus. Vehicular Communications, 50, 100845.
+Paper: Kang, H., Vo, T., Kim, H. K., & Hong, J. B. (2024). CANival: A multimodal approach to intrusion detection on the vehicle CAN bus. Vehicular Communications, 50, 100845.
+CANShield: signal-based IDS using multiple AE models (with ROAD and SynCAN datasets) (link)
+Paper: Shahriar, M. H., Xiao, Y., Moriano, P., Lou, W., & Hou, Y. T. (2023). CANShield: deep-learning-based intrusion detection framework for controller area networks at the signal level. IEEE Internet of Things Journal, 10(24), 22111-22127.
+Paper: Shahriar, M. H., Xiao, Y., Moriano, P., Lou, W., & Hou, Y. T. (2023). CANShield: deep-learning-based intrusion detection framework for controller area networks at the signal level. IEEE Internet of Things Journal, 10(24), 22111-22127.
+On this page

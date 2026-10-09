@@ -1,0 +1,9 @@
+Dependable and Secure systems Lab
+AI and AML for IDS projects
+Research areas
+Two Research Projects:
+Interpretable Dependable Secure Intrusion Detection System (IDS-IDS, aka, IDS^2)
+Interpretable Dependable Secure Intrusion Detection System (IDS-IDS, aka, IDS^2)
+Domain Adaptation for Network Intrusion Detection System (DAN-IDS)
+Domain Adaptation for Network Intrusion Detection System (DAN-IDS)
+Explore

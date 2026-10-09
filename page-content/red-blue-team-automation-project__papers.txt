@@ -1,0 +1,23 @@
+Research · Red & blue team automation
+Red Team Automation
+Research areas
+Juhwan Kim, Jihyeon Yu, Youngwoo Lee, Dan Dongseong Kim, Joobeom Yun: HD-FUZZ: Hardware dependency-aware firmware fuzzing via hybrid MMIO modeling. J. Netw. Comput. Appl. 224: 103835 (2024)
+Juhwan Kim, Jihyeon Yu, Youngwoo Lee, Dan Dongseong Kim, Joobeom Yun: HD-FUZZ: Hardware dependency-aware firmware fuzzing via hybrid MMIO modeling. J. Netw. Comput. Appl. 224: 103835 (2024)
+Nhung H. Nguyen, Jin-Hee Cho, Terrence J. Moore, Seunghyun Yoon, Hyuk Lim, Frederica Nelson, Guangdong Bai, Dan Dongseong Kim: AuSSE: A Novel Framework for Security and Safety Evaluation for Autonomous Vehicles. DSN-S 2024: 1-5
+Nhung H. Nguyen, Jin-Hee Cho, Terrence J. Moore, Seunghyun Yoon, Hyuk Lim, Frederica Nelson, Guangdong Bai, Dan Dongseong Kim: AuSSE: A Novel Framework for Security and Safety Evaluation for Autonomous Vehicles. DSN-S 2024: 1-5
+Simon Yusuf Enoch, Zhibin Huang, Chun Yong Moon, Donghwan Lee, Myung Kil Ahn, Dong Seong Kim: HARMer: Cyber-Attacks Automation and Evaluation. IEEE Access 8: 129397-129414 (2020)
+Simon Yusuf Enoch, Zhibin Huang, Chun Yong Moon, Donghwan Lee, Myung Kil Ahn, Dong Seong Kim: HARMer: Cyber-Attacks Automation and Evaluation. IEEE Access 8: 129397-129414 (2020)
+Young-Hoon Moon, Ji Hong Kim, Dong Seong Kim, Huy Kang Kim: Hybrid Attack Path Enumeration System Based on Reputation Scores. CIT 2016: 241-248
+Young-Hoon Moon, Ji Hong Kim, Dong Seong Kim, Huy Kang Kim: Hybrid Attack Path Enumeration System Based on Reputation Scores. CIT 2016: 241-248
+Matthew Ruffell, Jin B. Hong, Hyoungshick Kim, Dong Seong Kim: Towards Automated Exploit Generation for Embedded Systems. WISA 2016: 161-173
+Matthew Ruffell, Jin B. Hong, Hyoungshick Kim, Dong Seong Kim: Towards Automated Exploit Generation for Embedded Systems. WISA 2016: 161-173
+Blue Team Automation
+Simon Yusuf Enoch, Chun Yong Moon, Donghwan Lee, Myung Kil Ahn, Dong Seong Kim: A practical framework for cyber defense generation, enforcement and evaluation. Comput. Networks 208: 108878 (2022)
+Simon Yusuf Enoch, Chun Yong Moon, Donghwan Lee, Myung Kil Ahn, Dong Seong Kim: A practical framework for cyber defense generation, enforcement and evaluation. Comput. Networks 208: 108878 (2022)
+Xiaofan Zhou, Simon Yusuf Enoch, Dong Seong Kim: Markov Decision Process for Automatic Cyber Defense. WISA 2022: 313-329
+Xiaofan Zhou, Simon Yusuf Enoch, Dong Seong Kim: Markov Decision Process for Automatic Cyber Defense. WISA 2022: 313-329
+Mengmeng Ge, Huy Kang Kim, Dong Seong Kim: Evaluating Security and Availability of Multiple Redundancy Designs when Applying Security Patches. DSN Workshops 2017: 53-60
+Mengmeng Ge, Huy Kang Kim, Dong Seong Kim: Evaluating Security and Availability of Multiple Redundancy Designs when Applying Security Patches. DSN Workshops 2017: 53-60
+Jin B. Hong, Dong Seong Kim, Abdelkrim Haqiq: What Vulnerability Do We Need to Patch First? DSN 2014: 684-689
+Jin B. Hong, Dong Seong Kim, Abdelkrim Haqiq: What Vulnerability Do We Need to Patch First? DSN 2014: 684-689
+On this page

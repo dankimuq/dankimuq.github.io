@@ -1,0 +1,112 @@
+Dependable and Secure systems Lab
+Dan DongSeong Kim
+Journal editorships
+2018–present
+Computers & Security
+Editorial Board Member · Elsevier
+Impact factor: 6.8 · Q1 journalGoogle Scholar ranking: #2 in Computer Security & Cryptography
+2021–present
+IEEE Communications Surveys & Tutorials
+Associate Editor · IEEE COMST
+Impact factor: 50.6 · Q1 journalGoogle Scholar ranking: #2 in Computer Networks & Wireless Communicationh5-index: 155
+2022–present
+Computer Networks
+Editorial Board Member · Elsevier
+Impact factor: 4.7
+Position
+Associate Professor (continuing appointment) (Reader in the UK) in School of EECS, UQ.
+Deputy Director, UQ Cyber Security Centre, UQ.
+Lead, Dependable and Secure systems Lab (DSL), UQ.
+Qualifications
+Postgraduate Certificate in Tertiary Teaching, University of Canterbury, 2017
+Postgraduate Certificate in Tertiary Teaching, University of Canterbury, 2017
+2008-2011, Postdoc, Duke University, USA
+2008-2011, Postdoc, Duke University, USA
+Jan-Dec 2007, Visiting scholar, Univ. of Maryland, College Park, USA
+Jan-Dec 2007, Visiting scholar, Univ. of Maryland, College Park, USA
+B.S. (2001), M.S. (2003), Ph.D (2008). all from KAU, South Korea.
+B.S. (2001), M.S. (2003), Ph.D (2008). all from KAU, South Korea.
+Room
+Building 78; room 440 (UQ Cyber space), The University of Queensland (UQ), St. Lucia, Queensland, Australia
+Building 78; room 440 (UQ Cyber space), The University of Queensland (UQ), St. Lucia, Queensland, Australia
+Contact Details
+Email: dan Y kim X uq Y edu Y au (where X = AT and Y = DOT)
+Email: dan Y kim X uq Y edu Y au (where X = AT and Y = DOT)
+Links: Google Scholar, DBLP (publications), LinkedIn, Facebook.
+Links: Google Scholar, DBLP (publications), LinkedIn, Facebook.
+Short bio
+Dr. Dan Dongseong Kim is an Associate Professor (equivalent to UK Reader) (continuing academic) and Deputy Director of UQ Cyber at The University of Queensland (UQ), Brisbane, Australia since 2019. Prior to UQ, he led the Dependability and Security Lab (DSL). in the Department of Computer Science and Software Engineering at The University of Canterbury (UC), Christchurch, New Zealand from August 2011 to Dec 2018. He was a visiting scholar at The University of Maryland, College Park, Maryland in the US in 2007. From 2008 to 2011, he was a postdoc at Duke University, Durham, North Carolina in the US. His research interests are in cybersecurity and dependability for various systems and networks.
+Dr. Dan Dongseong Kim is an Associate Professor (equivalent to UK Reader) (continuing academic) and Deputy Director of UQ Cyber at The University of Queensland (UQ), Brisbane, Australia since 2019. Prior to UQ, he led the Dependability and Security Lab (DSL). in the Department of Computer Science and Software Engineering at The University of Canterbury (UC), Christchurch, New Zealand from August 2011 to Dec 2018. He was a visiting scholar at The University of Maryland, College Park, Maryland in the US in 2007. From 2008 to 2011, he was a postdoc at Duke University, Durham, North Carolina in the US. His research interests are in cybersecurity and dependability for various systems and networks.
+A Little Longer bio
+Dr. Dan Dongseong Kim is the Deputy Director of UQ Cybersecurity and an Associate Professor (in the Commonwealth system) with a continuing appointment in Cyber Security at The University of Queensland (UQ), Brisbane, Australia. In his current role, he is dedicated to advancing research and education in cybersecurity, focusing on the security and dependability of various systems and networks.
+Before joining UQ, Dr. Kim was a faculty member at the University of Canterbury (UC) in Christchurch, New Zealand, from 2011 to 2018. During his tenure at UC, he served as a Senior Lecturer in Cyber Security from 2015 to 2018 and as a Lecturer from 2011 to 2014 in the Department of Computer Science and Software Engineering. His leadership in the cybersecurity field at UC was marked by significant contributions to both research and teaching.
+Dr. Kim’s academic journey includes a postdoctoral position at Duke University in Durham, North Carolina, USA, from 2008 to 2011. Prior to that, he was a visiting scholar at the University of Maryland, College Park, Maryland, USA, in 2007. These experiences allowed him to collaborate with leading experts and broaden his research horizons.
+His research interests lie in cybersecurity and dependability for various systems and networks. He has a particular focus on developing robust security mechanisms for critical infrastructure, IoT devices, and networked systems. His work aims to enhance the resilience and reliability of these systems against cyber threats, ensuring their safe and secure operation.
+Dr. Kim has an impressive publication record, with over 185 publications and more than 7,000 citations. His Google Scholar profile shows an h-index of 41 and an i10-index of 117. Some of his notable research areas include:
+Graphical Models for Cyber Security: Model-based cyber security risk analysis
+Graphical Models for Cyber Security: Model-based cyber security risk analysis
+AI for Cybersecurity & Cybersecurity for AI: Securing AI systems and applying AI techniques to cybersecurity
+AI for Cybersecurity & Cybersecurity for AI: Securing AI systems and applying AI techniques to cybersecurity
+Moving Target Defense (MTD): Resilient and proactive defense
+Moving Target Defense (MTD): Resilient and proactive defense
+Evolving Attacks and Defense Automation: Red team and blue team automation and evaluation using AI
+Evolving Attacks and Defense Automation: Red team and blue team automation and evaluation using AI
+Dr. Kim is actively involved in professional activities, serving as an Associate Editor for IEEE Communications Surveys and Tutorials, and as an Editorial Board Member for Elsevier Computers & Security and Elsevier Computer Networks. He is also an elected member of IFIP WG 10.4 on Dependable Computing and Fault Tolerance and serves on several steering committees, including IFIP/IEEE DSN and IEEE PRDC.
+Dr. Kim’s research has been supported by various sponsors, including the NSF (US), IBM T.J. Watson (US), US Army Research Laboratory/DEVCOM-Pacific (US), NEC (Japan), Tait Communications (NZ), MBIE (NZ), NPRP (Qatar), ADD (Republic of Korea), and NRF (Republic of Korea).
+Academic Genealogy
+As for his academic genealogy, his Ph.D. thesis advisor was Professor Jong Sou Park (Pennsylvania State University, 1994); his one was Paul Thomas Hulina (Pennsylvania State University, 1969); then it runs back through Jon G. Bredeson (Northwestern University, 1967), Seifollah Louis Hakimi (University of Illinois at Urbana-Champaign (UIUC), 1959), Mac Van Valkenburg (Stanford University, 1952), Oswald Garrison Villard, Jr. (Stanford University,1949), Frederick Emmons Terman (Massachusetts Institute of Technology (MIT), 1924, Sc.D.) and Vannevar Bush (MIT, 1916) to Arthur Edwin Kennelly (self-taught) (who was working in Thomas Edison's West Orange Laboratory from December 1887 to March 1894) and Duglad C. Jacson.
+As for his academic genealogy, his Ph.D. thesis advisor was Professor Jong Sou Park (Pennsylvania State University, 1994); his one was Paul Thomas Hulina (Pennsylvania State University, 1969); then it runs back through Jon G. Bredeson (Northwestern University, 1967), Seifollah Louis Hakimi (University of Illinois at Urbana-Champaign (UIUC), 1959), Mac Van Valkenburg (Stanford University, 1952), Oswald Garrison Villard, Jr. (Stanford University,1949), Frederick Emmons Terman (Massachusetts Institute of Technology (MIT), 1924, Sc.D.) and Vannevar Bush (MIT, 1916) to Arthur Edwin Kennelly (self-taught) (who was working in Thomas Edison's West Orange Laboratory from December 1887 to March 1894) and Duglad C. Jacson.
+His postdoc advisor is Kishor S. Trivedi (UIUC, 1974) who is the Hudson Distinguished Professor of Electrical and Computer Engineering at Duke University, USA.
+His postdoc advisor is Kishor S. Trivedi (UIUC, 1974) who is the Hudson Distinguished Professor of Electrical and Computer Engineering at Duke University, USA.
+Please visit the academic tree from Duglad C. Jackson to all the way up to the ancestors at: academic tree (link).
+Please visit the academic tree from Duglad C. Jackson to all the way up to the ancestors at: academic tree (link).
+Professional Services
+Journal editorships
+Associate Editor, IEEE Communications Surveys and Tutorials (impact factor: 50.6, Q1 journal; Google Scholar #2 in Computer Networks & Wireless Communication; h5-index: 155), 2021 - present.
+Associate Editor, IEEE Communications Surveys and Tutorials (impact factor: 50.6, Q1 journal; Google Scholar #2 in Computer Networks & Wireless Communication; h5-index: 155), 2021 - present.
+Editorial Board Member, Elsevier Computers and Security (impact factor: 6.8), 2018–present.
+Editorial Board Member, Elsevier Computers and Security (impact factor: 6.8), 2018–present.
+Editorial Board Member, Elsevier Computer Networks (impact factor: 4.7), April 2022 - present.
+Editorial Board Member, Elsevier Computer Networks (impact factor: 4.7), April 2022 - present.
+International Conference organization (selected)
+2025, General co-chair, The IEEE/ACM International Symposium on Quality of Service (IWQoS 2025), 2–4 , July 2025, Gold Coast, Australia.
+2025, General co-chair, The IEEE/ACM International Symposium on Quality of Service (IWQoS 2025), 2–4 , July 2025, Gold Coast, Australia.
+2024, General chair, The IEEE/IFIP Int. Conf. on Dependable Systems and Networks (DSN 2024, June 2024, Brisbane, Australia.
+2024, General chair, The IEEE/IFIP Int. Conf. on Dependable Systems and Networks (DSN 2024, June 2024, Brisbane, Australia.
+2019, General co-chair of The 24th Australasian Conference on Information Security and Privacy (ACISP 2019), July, 2019 in Christchurch, New Zealand
+2019, General co-chair of The 24th Australasian Conference on Information Security and Privacy (ACISP 2019), July, 2019 in Christchurch, New Zealand
+2017, General chair of The 22nd IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2017) in January, 2017 in Christchurch, New Zealand
+2017, General chair of The 22nd IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2017) in January, 2017 in Christchurch, New Zealand
+2023, Program co-chair, the 42nd the International Symposium on Reliable Distributed Systems, 2023 (SRDS 2023) (https://www.computer.org/csdl/proceedings-article/srds/2023/291000z010/1UoH0DBHAMU)
+2023, Program co-chair, the 42nd the International Symposium on Reliable Distributed Systems, 2023 (SRDS 2023) (https://www.computer.org/csdl/proceedings-article/srds/2023/291000z010/1UoH0DBHAMU)
+2019, Program Co-Chair, The IEEE International Congress on Internet Of Things (IEEE ICIOT 2019), July 8th-13th, 2019, Milano, Italy. [a top tier IoT international conference]
+2019, Program Co-Chair, The IEEE International Congress on Internet Of Things (IEEE ICIOT 2019), July 8th-13th, 2019, Milano, Italy. [a top tier IoT international conference]
+2019, Security track co-chair, IEEE Int. Sym. On Trusted Computing (TrustCom) 2019 [CORE Rank A]
+2019, Security track co-chair, IEEE Int. Sym. On Trusted Computing (TrustCom) 2019 [CORE Rank A]
+2015, Program Co-Chair, The 13th IEEE International Conference on Dependable, Automatic and Secure Computing (DASC)/The 11th International Conference on Information Assurance and Security.
+2015, Program Co-Chair, The 13th IEEE International Conference on Dependable, Automatic and Secure Computing (DASC)/The 11th International Conference on Information Assurance and Security.
+Student paper co-chair, The 43rd IEEE/IFIP Int. Conf. on Dependable Systems and Networks (DSN 2013) [CORE Rank A* in 2013]
+Student paper co-chair, The 43rd IEEE/IFIP Int. Conf. on Dependable Systems and Networks (DSN 2013) [CORE Rank A* in 2013]
+Workshop organization (selected)
+Program co-chair, The International Workshop on Graphical Models for Security (GraMSec) 2016
+Program co-chair, The International Workshop on Graphical Models for Security (GraMSec) 2016
+Conference/workshop technical program committee (selected)
+The IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2019-2020) [CORE Rank A]; one and only TPC member from Australia (from 2019-2020).
+The IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2019-2020) [CORE Rank A]; one and only TPC member from Australia (from 2019-2020).
+IEEE International Conference on Services Computing (SCC 2020) [CORE Rank A]
+IEEE International Conference on Services Computing (SCC 2020) [CORE Rank A]
+ICDCS 2020 (The 40th IEEE International Conference on Distributed Computing Systems) [CORE Rank A]
+ICDCS 2020 (The 40th IEEE International Conference on Distributed Computing Systems) [CORE Rank A]
+The 28th International Symposium on Software Reliability Engineering (ISSRE) 2017-2019 [CORE Rank A]
+The 28th International Symposium on Software Reliability Engineering (ISSRE) 2017-2019 [CORE Rank A]
+The 36th Symposium on Reliable Distributed Systems (SRDS) 2017,2019 [CORE Rank A]
+The 36th Symposium on Reliable Distributed Systems (SRDS) 2017,2019 [CORE Rank A]
+The IEEE Int. Sym. On Trusted Computing (TrustCom) 2009-2017, 2019 [CORE Rank A]
+The IEEE Int. Sym. On Trusted Computing (TrustCom) 2009-2017, 2019 [CORE Rank A]
+The International Workshop on Graphical Models for Security (GraMSec) 2014-2017, 2019 [Prestigious graphical security modeling workshop]
+The International Workshop on Graphical Models for Security (GraMSec) 2014-2017, 2019 [Prestigious graphical security modeling workshop]
+Australasian Conference on Information Security and Privacy (ACISP) 2016-present [CORE Australasian]
+Australasian Conference on Information Security and Privacy (ACISP) 2016-present [CORE Australasian]
+The IEEE Conf. on Local Computer Networks (LCN) 2009 – 2014 [CORE Rank A]
+The IEEE Conf. on Local Computer Networks (LCN) 2009 – 2014 [CORE Rank A]
+On this page

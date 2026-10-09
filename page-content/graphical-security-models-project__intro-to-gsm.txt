@@ -1,0 +1,14 @@
+Research · Graphical security models
+Intro
+Research areas
+aka, Graphical Model for Security.
+aka, Graphical Model for Security.
+are a marriage between probability theory and graph theory [Stølen, GraMsec14].
+are a marriage between probability theory and graph theory [Stølen, GraMsec14].
+represent potential attack or defense scenarios using visual structures (e.g., trees, graphs) to support analysis, reasoning, and decision-making about security.
+represent potential attack or defense scenarios using visual structures (e.g., trees, graphs) to support analysis, reasoning, and decision-making about security.
+explicitly capture potential attack paths and how adversaries may move through a system.
+explicitly capture potential attack paths and how adversaries may move through a system.
+examples: attack graphs, attack trees, or Hierarchical Attack Representation Models (HARMs)
+examples: attack graphs, attack trees, or Hierarchical Attack Representation Models (HARMs)
+Explore
