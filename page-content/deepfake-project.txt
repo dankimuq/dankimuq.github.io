@@ -1,5 +1,0 @@
-Dependable and Secure systems Lab
-Deep Fake Project
-Research areas
-The rise of deepfake technologies has enabled the creation of highly realistic fake videos, images, and audio, posing significant challenges to security, media integrity, and public trust. Our research focuses on developing methods to detect manipulated content across multiple modalities and prevent malicious generation of synthetic media. By advancing robust detection and prevention techniques, we aim to safeguard digital media and enhance trust in online information.
-Explore
